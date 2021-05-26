@@ -1,0 +1,2314 @@
+<roblox xmlns:xmime="http://www.w3.org/2005/05/xmlmime" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.roblox.com/roblox.xsd" version="4">
+	<Meta name="ExplicitAutoJoints">true</Meta>
+	<External>null</External>
+	<External>nil</External>
+	<Item class="Model" referent="RBXFCDE285285B24C8BAEB25A1DD4D495F6">
+		<Properties>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<token name="LevelOfDetail">0</token>
+			<CoordinateFrame name="ModelInPrimary">
+				<X>0</X>
+				<Y>0</Y>
+				<Z>0</Z>
+				<R00>1</R00>
+				<R01>0</R01>
+				<R02>0</R02>
+				<R10>0</R10>
+				<R11>1</R11>
+				<R12>0</R12>
+				<R20>0</R20>
+				<R21>0</R21>
+				<R22>1</R22>
+			</CoordinateFrame>
+			<CoordinateFrame name="ModelMeshCFrame">
+				<X>0</X>
+				<Y>0</Y>
+				<Z>0</Z>
+				<R00>1</R00>
+				<R01>0</R01>
+				<R02>0</R02>
+				<R10>0</R10>
+				<R11>1</R11>
+				<R12>0</R12>
+				<R20>0</R20>
+				<R21>0</R21>
+				<R22>1</R22>
+			</CoordinateFrame>
+			<SharedString name="ModelMeshData">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+			<Vector3 name="ModelMeshSize">
+				<X>0</X>
+				<Y>0</Y>
+				<Z>0</Z>
+			</Vector3>
+			<string name="Name">XrayComputer</string>
+			<bool name="NeedsPivotMigration">false</bool>
+			<Ref name="PrimaryPart">null</Ref>
+			<int64 name="SourceAssetId">6865089237</int64>
+			<BinaryString name="Tags"></BinaryString>
+			<OptionalCoordinateFrame name="WorldPivotData">
+				<CFrame>
+					<X>27.9193268</X>
+					<Y>-22.276989</Y>
+					<Z>22.9915466</Z>
+					<R00>0</R00>
+					<R01>0</R01>
+					<R02>-1</R02>
+					<R10>0</R10>
+					<R11>1</R11>
+					<R12>0</R12>
+					<R20>1</R20>
+					<R21>0</R21>
+					<R22>0</R22>
+				</CFrame>
+			</OptionalCoordinateFrame>
+		</Properties>
+		<Item class="MeshPart" referent="RBXB8570E1024D74B53A4C817584A3A2C81">
+			<Properties>
+				<bool name="Anchored">false</bool>
+				<BinaryString name="AttributesSerialize"></BinaryString>
+				<float name="BackParamA">-0.5</float>
+				<float name="BackParamB">0.5</float>
+				<token name="BackSurface">0</token>
+				<token name="BackSurfaceInput">0</token>
+				<float name="BottomParamA">-0.5</float>
+				<float name="BottomParamB">0.5</float>
+				<token name="BottomSurface">0</token>
+				<token name="BottomSurfaceInput">0</token>
+				<CoordinateFrame name="CFrame">
+					<X>30.8427734</X>
+					<Y>-22.2769871</Y>
+					<Z>22.0745544</Z>
+					<R00>0</R00>
+					<R01>0</R01>
+					<R02>-1</R02>
+					<R10>0</R10>
+					<R11>1</R11>
+					<R12>0</R12>
+					<R20>1</R20>
+					<R21>0</R21>
+					<R22>0</R22>
+				</CoordinateFrame>
+				<bool name="CanCollide">true</bool>
+				<bool name="CanTouch">true</bool>
+				<bool name="CastShadow">true</bool>
+				<int name="CollisionGroupId">0</int>
+				<Color3uint8 name="Color3uint8">4279430868</Color3uint8>
+				<PhysicalProperties name="CustomPhysicalProperties">
+					<CustomPhysics>false</CustomPhysics>
+				</PhysicalProperties>
+				<bool name="DoubleSided">false</bool>
+				<float name="FrontParamA">-0.5</float>
+				<float name="FrontParamB">0.5</float>
+				<token name="FrontSurface">0</token>
+				<token name="FrontSurfaceInput">0</token>
+				<bool name="HasJointOffset">false</bool>
+				<bool name="HasSkinnedMesh">false</bool>
+				<Vector3 name="InitialSize">
+					<X>1.40845513</X>
+					<Y>1.55729246</Y>
+					<Z>1.54176784</Z>
+				</Vector3>
+				<Vector3 name="JointOffset">
+					<X>0</X>
+					<Y>0</Y>
+					<Z>0</Z>
+				</Vector3>
+				<BinaryString name="LODData"></BinaryString>
+				<float name="LeftParamA">-0.5</float>
+				<float name="LeftParamB">0.5</float>
+				<token name="LeftSurface">0</token>
+				<token name="LeftSurfaceInput">0</token>
+				<bool name="Locked">false</bool>
+				<bool name="Massless">false</bool>
+				<token name="Material">1056</token>
+				<Content name="MeshID"><url>rbxassetid://1263004833</url></Content>
+				<Content name="MeshId"><url>rbxassetid://1263004833</url></Content>
+				<string name="Name">Computer</string>
+				<SharedString name="PhysicalConfigData">3Kv2ZpgEwAvcwW5M3VhDXA==</SharedString>
+				<BinaryString name="PhysicsData"></BinaryString>
+				<CoordinateFrame name="PivotOffset">
+					<X>0</X>
+					<Y>0</Y>
+					<Z>0</Z>
+					<R00>1</R00>
+					<R01>0</R01>
+					<R02>0</R02>
+					<R10>0</R10>
+					<R11>1</R11>
+					<R12>0</R12>
+					<R20>0</R20>
+					<R21>0</R21>
+					<R22>1</R22>
+				</CoordinateFrame>
+				<float name="Reflectance">0</float>
+				<token name="RenderFidelity">1</token>
+				<float name="RightParamA">-0.5</float>
+				<float name="RightParamB">0.5</float>
+				<token name="RightSurface">0</token>
+				<token name="RightSurfaceInput">0</token>
+				<int name="RootPriority">0</int>
+				<Vector3 name="RotVelocity">
+					<X>0</X>
+					<Y>0</Y>
+					<Z>0</Z>
+				</Vector3>
+				<int64 name="SourceAssetId">4112649363</int64>
+				<BinaryString name="Tags"></BinaryString>
+				<Content name="TextureID"><url>rbxassetid://1263007159</url></Content>
+				<float name="TopParamA">-0.5</float>
+				<float name="TopParamB">0.5</float>
+				<token name="TopSurface">0</token>
+				<token name="TopSurfaceInput">0</token>
+				<float name="Transparency">0</float>
+				<Vector3 name="Velocity">
+					<X>0</X>
+					<Y>0</Y>
+					<Z>0</Z>
+				</Vector3>
+				<Vector3 name="size">
+					<X>1.40845513</X>
+					<Y>1.55729246</Y>
+					<Z>1.54176784</Z>
+				</Vector3>
+			</Properties>
+			<Item class="Attachment" referent="RBX9FE34A27D4094D2290CE2437809E4B46">
+				<Properties>
+					<BinaryString name="AttributesSerialize"></BinaryString>
+					<CoordinateFrame name="CFrame">
+						<X>0.200000763</X>
+						<Y>-0.427999973</Y>
+						<Z>0.449999928</Z>
+						<R00>1</R00>
+						<R01>0</R01>
+						<R02>0</R02>
+						<R10>0</R10>
+						<R11>1</R11>
+						<R12>0</R12>
+						<R20>0</R20>
+						<R21>0</R21>
+						<R22>1</R22>
+					</CoordinateFrame>
+					<string name="Name">Origin</string>
+					<int64 name="SourceAssetId">-1</int64>
+					<BinaryString name="Tags"></BinaryString>
+					<bool name="Visible">false</bool>
+				</Properties>
+			</Item>
+			<Item class="RopeConstraint" referent="RBX041C6B68921341378BAB9707A2397E2D">
+				<Properties>
+					<Ref name="Attachment0">RBX9FE34A27D4094D2290CE2437809E4B46</Ref>
+					<Ref name="Attachment1">RBXD5ECD59D9AF34CE0A96AB782296B32CC</Ref>
+					<BinaryString name="AttributesSerialize"></BinaryString>
+					<int name="Color">26</int>
+					<bool name="Enabled">true</bool>
+					<float name="Length">12</float>
+					<string name="Name">RopeConstraint</string>
+					<float name="Restitution">0</float>
+					<int64 name="SourceAssetId">-1</int64>
+					<BinaryString name="Tags"></BinaryString>
+					<float name="Thickness">0.0500000007</float>
+					<bool name="Visible">true</bool>
+				</Properties>
+			</Item>
+			<Item class="Script" referent="RBX5F16E0499F364BC3AC95E6DF81121D5A">
+				<Properties>
+					<BinaryString name="AttributesSerialize"></BinaryString>
+					<bool name="Disabled">false</bool>
+					<Content name="LinkedSource"><null></null></Content>
+					<string name="Name">Clicked</string>
+					<string name="ScriptGuid">{83782A19-71EC-46C3-9FDC-D6170A6F2530}</string>
+					<ProtectedString name="Source"><![CDATA[script.Parent.ClickDetector.MouseClick:Connect(function(player)
+	script.Parent.Parent.Connector.Xray:Clone().Parent = player.PlayerGui
+end)]]></ProtectedString>
+					<int64 name="SourceAssetId">-1</int64>
+					<BinaryString name="Tags"></BinaryString>
+				</Properties>
+			</Item>
+			<Item class="ClickDetector" referent="RBX450481947BC54E83BDB62984012C0C7E">
+				<Properties>
+					<BinaryString name="AttributesSerialize"></BinaryString>
+					<Content name="CursorIcon"><null></null></Content>
+					<float name="MaxActivationDistance">32</float>
+					<string name="Name">ClickDetector</string>
+					<int64 name="SourceAssetId">-1</int64>
+					<BinaryString name="Tags"></BinaryString>
+				</Properties>
+			</Item>
+			<Item class="WeldConstraint" referent="RBXEDB26590C165489DBF15D9C82F8EF695">
+				<Properties>
+					<BinaryString name="AttributesSerialize"></BinaryString>
+					<CoordinateFrame name="CFrame0">
+						<X>-0.517028809</X>
+						<Y>-0.42391777</Y>
+						<Z>-0.710250854</Z>
+						<R00>1</R00>
+						<R01>0</R01>
+						<R02>0</R02>
+						<R10>0</R10>
+						<R11>1</R11>
+						<R12>0</R12>
+						<R20>0</R20>
+						<R21>0</R21>
+						<R22>1</R22>
+					</CoordinateFrame>
+					<string name="Name">WeldConstraint</string>
+					<Ref name="Part0Internal">RBXB8570E1024D74B53A4C817584A3A2C81</Ref>
+					<Ref name="Part1Internal">RBXA9359E9E1F894915BB3F399C0C1946CA</Ref>
+					<int64 name="SourceAssetId">-1</int64>
+					<int name="State">3</int>
+					<BinaryString name="Tags"></BinaryString>
+				</Properties>
+			</Item>
+		</Item>
+		<Item class="Part" referent="RBXA9359E9E1F894915BB3F399C0C1946CA">
+			<Properties>
+				<bool name="Anchored">false</bool>
+				<BinaryString name="AttributesSerialize"></BinaryString>
+				<float name="BackParamA">-0.5</float>
+				<float name="BackParamB">0.5</float>
+				<token name="BackSurface">0</token>
+				<token name="BackSurfaceInput">0</token>
+				<float name="BottomParamA">-0.5</float>
+				<float name="BottomParamB">0.5</float>
+				<token name="BottomSurface">0</token>
+				<token name="BottomSurfaceInput">0</token>
+				<CoordinateFrame name="CFrame">
+					<X>31.5530243</X>
+					<Y>-22.7009048</Y>
+					<Z>21.5575256</Z>
+					<R00>0</R00>
+					<R01>0</R01>
+					<R02>-1</R02>
+					<R10>0</R10>
+					<R11>1</R11>
+					<R12>0</R12>
+					<R20>1</R20>
+					<R21>0</R21>
+					<R22>0</R22>
+				</CoordinateFrame>
+				<bool name="CanCollide">true</bool>
+				<bool name="CanTouch">true</bool>
+				<bool name="CastShadow">true</bool>
+				<int name="CollisionGroupId">0</int>
+				<Color3uint8 name="Color3uint8">4291045404</Color3uint8>
+				<PhysicalProperties name="CustomPhysicalProperties">
+					<CustomPhysics>false</CustomPhysics>
+				</PhysicalProperties>
+				<float name="FrontParamA">-0.5</float>
+				<float name="FrontParamB">0.5</float>
+				<token name="FrontSurface">0</token>
+				<token name="FrontSurfaceInput">0</token>
+				<float name="LeftParamA">-0.5</float>
+				<float name="LeftParamB">0.5</float>
+				<token name="LeftSurface">0</token>
+				<token name="LeftSurfaceInput">0</token>
+				<bool name="Locked">false</bool>
+				<bool name="Massless">false</bool>
+				<token name="Material">272</token>
+				<string name="Name">ResetXray</string>
+				<CoordinateFrame name="PivotOffset">
+					<X>0</X>
+					<Y>0</Y>
+					<Z>0</Z>
+					<R00>1</R00>
+					<R01>0</R01>
+					<R02>0</R02>
+					<R10>0</R10>
+					<R11>1</R11>
+					<R12>0</R12>
+					<R20>0</R20>
+					<R21>0</R21>
+					<R22>1</R22>
+				</CoordinateFrame>
+				<float name="Reflectance">0</float>
+				<float name="RightParamA">-0.5</float>
+				<float name="RightParamB">0.5</float>
+				<token name="RightSurface">0</token>
+				<token name="RightSurfaceInput">0</token>
+				<int name="RootPriority">0</int>
+				<Vector3 name="RotVelocity">
+					<X>0</X>
+					<Y>0</Y>
+					<Z>0</Z>
+				</Vector3>
+				<int64 name="SourceAssetId">-1</int64>
+				<BinaryString name="Tags"></BinaryString>
+				<float name="TopParamA">-0.5</float>
+				<float name="TopParamB">0.5</float>
+				<token name="TopSurface">0</token>
+				<token name="TopSurfaceInput">0</token>
+				<float name="Transparency">0</float>
+				<Vector3 name="Velocity">
+					<X>0</X>
+					<Y>0</Y>
+					<Z>0</Z>
+				</Vector3>
+				<token name="formFactorRaw">1</token>
+				<token name="shape">1</token>
+				<Vector3 name="size">
+					<X>0.100000046</X>
+					<Y>0.0999999866</Y>
+					<Z>0.100000024</Z>
+				</Vector3>
+			</Properties>
+			<Item class="Script" referent="RBX9E73C2D3104C4E26B95EE03787C923CF">
+				<Properties>
+					<BinaryString name="AttributesSerialize"></BinaryString>
+					<bool name="Disabled">false</bool>
+					<Content name="LinkedSource"><null></null></Content>
+					<string name="Name">Script</string>
+					<string name="ScriptGuid">{B20DBB5F-7F23-46C5-AED2-0C89E1BA3764}</string>
+					<ProtectedString name="Source"><![CDATA[script.Parent.ClickDetector.MouseClick:Connect(function()
+	script.Parent.Parent.Connector.Xray.Viewer:ClearAllChildren()
+end)]]></ProtectedString>
+					<int64 name="SourceAssetId">-1</int64>
+					<BinaryString name="Tags"></BinaryString>
+				</Properties>
+			</Item>
+			<Item class="ClickDetector" referent="RBX5C76F249E7D04951B147FEE49E69AF8C">
+				<Properties>
+					<BinaryString name="AttributesSerialize"></BinaryString>
+					<Content name="CursorIcon"><null></null></Content>
+					<float name="MaxActivationDistance">32</float>
+					<string name="Name">ClickDetector</string>
+					<int64 name="SourceAssetId">-1</int64>
+					<BinaryString name="Tags"></BinaryString>
+				</Properties>
+			</Item>
+		</Item>
+		<Item class="UnionOperation" referent="RBX71D244CACC2C48B5AD9A9AB3D735AFC2">
+			<Properties>
+				<bool name="Anchored">false</bool>
+				<Content name="AssetId"><url>https://www.roblox.com//asset/?id=6865088933</url></Content>
+				<BinaryString name="AttributesSerialize"></BinaryString>
+				<float name="BackParamA">-0.5</float>
+				<float name="BackParamB">0.5</float>
+				<token name="BackSurface">0</token>
+				<token name="BackSurfaceInput">0</token>
+				<float name="BottomParamA">-0.5</float>
+				<float name="BottomParamB">0.5</float>
+				<token name="BottomSurface">0</token>
+				<token name="BottomSurfaceInput">0</token>
+				<CoordinateFrame name="CFrame">
+					<X>31.2036209</X>
+					<Y>-22.5056362</Y>
+					<Z>24.5387859</Z>
+					<R00>1.67695244e-14</R00>
+					<R01>3.67568532e-07</R01>
+					<R02>1</R02>
+					<R10>1</R10>
+					<R11>-4.37113847e-08</R11>
+					<R12>8.80580111e-16</R12>
+					<R20>4.37113883e-08</R20>
+					<R21>0.999999762</R21>
+					<R22>-3.67568447e-07</R22>
+				</CoordinateFrame>
+				<bool name="CanCollide">false</bool>
+				<bool name="CanTouch">false</bool>
+				<bool name="CastShadow">true</bool>
+				<BinaryString name="ChildData"></BinaryString>
+				<SharedString name="ChildData2">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+				<int name="CollisionGroupId">0</int>
+				<Color3uint8 name="Color3uint8">4291045404</Color3uint8>
+				<PhysicalProperties name="CustomPhysicalProperties">
+					<CustomPhysics>false</CustomPhysics>
+				</PhysicalProperties>
+				<token name="FormFactor">3</token>
+				<float name="FrontParamA">-0.5</float>
+				<float name="FrontParamB">0.5</float>
+				<token name="FrontSurface">0</token>
+				<token name="FrontSurfaceInput">0</token>
+				<Vector3 name="InitialSize">
+					<X>4</X>
+					<Y>3.99999905</Y>
+					<Z>4</Z>
+				</Vector3>
+				<BinaryString name="LODData"></BinaryString>
+				<float name="LeftParamA">-0.5</float>
+				<float name="LeftParamB">0.5</float>
+				<token name="LeftSurface">0</token>
+				<token name="LeftSurfaceInput">0</token>
+				<bool name="Locked">false</bool>
+				<bool name="Massless">false</bool>
+				<token name="Material">256</token>
+				<BinaryString name="MeshData"></BinaryString>
+				<SharedString name="MeshData2">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+				<string name="Name">ConnectordLeft</string>
+				<SharedString name="PhysicalConfigData">y07asqfIB13mFc+9PtSKhA==</SharedString>
+				<BinaryString name="PhysicsData"></BinaryString>
+				<CoordinateFrame name="PivotOffset">
+					<X>0</X>
+					<Y>0</Y>
+					<Z>0</Z>
+					<R00>1</R00>
+					<R01>0</R01>
+					<R02>0</R02>
+					<R10>0</R10>
+					<R11>1</R11>
+					<R12>0</R12>
+					<R20>0</R20>
+					<R21>0</R21>
+					<R22>1</R22>
+				</CoordinateFrame>
+				<float name="Reflectance">0</float>
+				<token name="RenderFidelity">1</token>
+				<float name="RightParamA">-0.5</float>
+				<float name="RightParamB">0.5</float>
+				<token name="RightSurface">0</token>
+				<token name="RightSurfaceInput">0</token>
+				<int name="RootPriority">0</int>
+				<Vector3 name="RotVelocity">
+					<X>0</X>
+					<Y>0</Y>
+					<Z>0</Z>
+				</Vector3>
+				<float name="SmoothingAngle">0</float>
+				<int64 name="SourceAssetId">-1</int64>
+				<BinaryString name="Tags"></BinaryString>
+				<float name="TopParamA">-0.5</float>
+				<float name="TopParamB">0.5</float>
+				<token name="TopSurface">0</token>
+				<token name="TopSurfaceInput">0</token>
+				<float name="Transparency">0</float>
+				<bool name="UsePartColor">true</bool>
+				<Vector3 name="Velocity">
+					<X>0</X>
+					<Y>0</Y>
+					<Z>0</Z>
+				</Vector3>
+				<Vector3 name="size">
+					<X>0.199999988</X>
+					<Y>0.199999034</Y>
+					<Z>0.199999988</Z>
+				</Vector3>
+			</Properties>
+			<Item class="Script" referent="RBXA56DABA585BF4302B8F3B2FB9D3E82AB">
+				<Properties>
+					<BinaryString name="AttributesSerialize"></BinaryString>
+					<bool name="Disabled">false</bool>
+					<Content name="LinkedSource"><null></null></Content>
+					<string name="Name">Script</string>
+					<string name="ScriptGuid">{E18A8D39-B91A-47DD-8C4C-F8D0CCE01B3E}</string>
+					<ProtectedString name="Source"><![CDATA[script.Parent.ClickDetector.MouseClick:Connect(function()
+	script.Parent.Parent.Connector.Fix.Position = Vector3.new(script.Parent.Parent.Connector.Fix.Position.X-0.1, script.Parent.Parent.Connector.Fix.Position.Y, script.Parent.Parent.Connector.Fix.Position.Z)
+end)]]></ProtectedString>
+					<int64 name="SourceAssetId">-1</int64>
+					<BinaryString name="Tags"></BinaryString>
+				</Properties>
+			</Item>
+			<Item class="ClickDetector" referent="RBX0CDFD3C3B5504E83B4BFCD90C04A83A1">
+				<Properties>
+					<BinaryString name="AttributesSerialize"></BinaryString>
+					<Content name="CursorIcon"><null></null></Content>
+					<float name="MaxActivationDistance">32</float>
+					<string name="Name">ClickDetector</string>
+					<int64 name="SourceAssetId">-1</int64>
+					<BinaryString name="Tags"></BinaryString>
+				</Properties>
+			</Item>
+		</Item>
+		<Item class="UnionOperation" referent="RBXE7C322B96B3B4471A132B8B2BB15F72F">
+			<Properties>
+				<bool name="Anchored">false</bool>
+				<Content name="AssetId"><url>https://www.roblox.com//asset/?id=6865088933</url></Content>
+				<BinaryString name="AttributesSerialize"></BinaryString>
+				<float name="BackParamA">-0.5</float>
+				<float name="BackParamB">0.5</float>
+				<token name="BackSurface">0</token>
+				<token name="BackSurfaceInput">0</token>
+				<float name="BottomParamA">-0.5</float>
+				<float name="BottomParamB">0.5</float>
+				<token name="BottomSurface">0</token>
+				<token name="BottomSurfaceInput">0</token>
+				<CoordinateFrame name="CFrame">
+					<X>30.9536209</X>
+					<Y>-22.5056362</Y>
+					<Z>24.2887859</Z>
+					<R00>-4.37113918e-08</R00>
+					<R01>-1</R01>
+					<R02>2.68220901e-07</R02>
+					<R10>1</R10>
+					<R11>-4.37113883e-08</R11>
+					<R12>7.10542693e-15</R12>
+					<R20>1.86517434e-14</R20>
+					<R21>2.68220845e-07</R21>
+					<R22>0.999999762</R22>
+				</CoordinateFrame>
+				<bool name="CanCollide">false</bool>
+				<bool name="CanTouch">false</bool>
+				<bool name="CastShadow">true</bool>
+				<BinaryString name="ChildData"></BinaryString>
+				<SharedString name="ChildData2">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+				<int name="CollisionGroupId">0</int>
+				<Color3uint8 name="Color3uint8">4291045404</Color3uint8>
+				<PhysicalProperties name="CustomPhysicalProperties">
+					<CustomPhysics>false</CustomPhysics>
+				</PhysicalProperties>
+				<token name="FormFactor">3</token>
+				<float name="FrontParamA">-0.5</float>
+				<float name="FrontParamB">0.5</float>
+				<token name="FrontSurface">0</token>
+				<token name="FrontSurfaceInput">0</token>
+				<Vector3 name="InitialSize">
+					<X>4</X>
+					<Y>3.99999905</Y>
+					<Z>4</Z>
+				</Vector3>
+				<BinaryString name="LODData"></BinaryString>
+				<float name="LeftParamA">-0.5</float>
+				<float name="LeftParamB">0.5</float>
+				<token name="LeftSurface">0</token>
+				<token name="LeftSurfaceInput">0</token>
+				<bool name="Locked">false</bool>
+				<bool name="Massless">false</bool>
+				<token name="Material">256</token>
+				<BinaryString name="MeshData"></BinaryString>
+				<SharedString name="MeshData2">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+				<string name="Name">ConnectordBackward</string>
+				<SharedString name="PhysicalConfigData">y07asqfIB13mFc+9PtSKhA==</SharedString>
+				<BinaryString name="PhysicsData"></BinaryString>
+				<CoordinateFrame name="PivotOffset">
+					<X>0</X>
+					<Y>0</Y>
+					<Z>0</Z>
+					<R00>1</R00>
+					<R01>0</R01>
+					<R02>0</R02>
+					<R10>0</R10>
+					<R11>1</R11>
+					<R12>0</R12>
+					<R20>0</R20>
+					<R21>0</R21>
+					<R22>1</R22>
+				</CoordinateFrame>
+				<float name="Reflectance">0</float>
+				<token name="RenderFidelity">1</token>
+				<float name="RightParamA">-0.5</float>
+				<float name="RightParamB">0.5</float>
+				<token name="RightSurface">0</token>
+				<token name="RightSurfaceInput">0</token>
+				<int name="RootPriority">0</int>
+				<Vector3 name="RotVelocity">
+					<X>0</X>
+					<Y>0</Y>
+					<Z>0</Z>
+				</Vector3>
+				<float name="SmoothingAngle">0</float>
+				<int64 name="SourceAssetId">-1</int64>
+				<BinaryString name="Tags"></BinaryString>
+				<float name="TopParamA">-0.5</float>
+				<float name="TopParamB">0.5</float>
+				<token name="TopSurface">0</token>
+				<token name="TopSurfaceInput">0</token>
+				<float name="Transparency">0</float>
+				<bool name="UsePartColor">true</bool>
+				<Vector3 name="Velocity">
+					<X>0</X>
+					<Y>0</Y>
+					<Z>0</Z>
+				</Vector3>
+				<Vector3 name="size">
+					<X>0.199999988</X>
+					<Y>0.199999034</Y>
+					<Z>0.199999988</Z>
+				</Vector3>
+			</Properties>
+			<Item class="Script" referent="RBXFE515003CEA642679918D7D091E1B7E7">
+				<Properties>
+					<BinaryString name="AttributesSerialize"></BinaryString>
+					<bool name="Disabled">false</bool>
+					<Content name="LinkedSource"><null></null></Content>
+					<string name="Name">Script</string>
+					<string name="ScriptGuid">{E046C525-AA77-459A-BAE4-A9DA45034334}</string>
+					<ProtectedString name="Source"><![CDATA[script.Parent.ClickDetector.MouseClick:Connect(function()
+	script.Parent.Parent.Connector.Fix.Position = Vector3.new(script.Parent.Parent.Connector.Fix.Position.X, script.Parent.Parent.Connector.Fix.Position.Y, script.Parent.Parent.Connector.Fix.Position.Z-0.1)
+end)]]></ProtectedString>
+					<int64 name="SourceAssetId">-1</int64>
+					<BinaryString name="Tags"></BinaryString>
+				</Properties>
+			</Item>
+			<Item class="ClickDetector" referent="RBXE7B01FF9FF684E4D845EB14161F713B7">
+				<Properties>
+					<BinaryString name="AttributesSerialize"></BinaryString>
+					<Content name="CursorIcon"><null></null></Content>
+					<float name="MaxActivationDistance">32</float>
+					<string name="Name">ClickDetector</string>
+					<int64 name="SourceAssetId">-1</int64>
+					<BinaryString name="Tags"></BinaryString>
+				</Properties>
+			</Item>
+		</Item>
+		<Item class="UnionOperation" referent="RBXB66943DCE3A545C98DA958FFF4A35AA2">
+			<Properties>
+				<bool name="Anchored">false</bool>
+				<Content name="AssetId"><url>https://www.roblox.com//asset/?id=6865088933</url></Content>
+				<BinaryString name="AttributesSerialize"></BinaryString>
+				<float name="BackParamA">-0.5</float>
+				<float name="BackParamB">0.5</float>
+				<token name="BackSurface">0</token>
+				<token name="BackSurfaceInput">0</token>
+				<float name="BottomParamA">-0.5</float>
+				<float name="BottomParamB">0.5</float>
+				<token name="BottomSurface">0</token>
+				<token name="BottomSurfaceInput">0</token>
+				<CoordinateFrame name="CFrame">
+					<X>31.4536209</X>
+					<Y>-22.5056362</Y>
+					<Z>24.2887859</Z>
+					<R00>-4.37113918e-08</R00>
+					<R01>1</R01>
+					<R02>8.74227624e-08</R02>
+					<R10>1</R10>
+					<R11>4.37113883e-08</R11>
+					<R12>4.37113883e-08</R12>
+					<R20>4.37113847e-08</R20>
+					<R21>8.7422741e-08</R21>
+					<R22>-0.999999821</R22>
+				</CoordinateFrame>
+				<bool name="CanCollide">false</bool>
+				<bool name="CanTouch">false</bool>
+				<bool name="CastShadow">true</bool>
+				<BinaryString name="ChildData"></BinaryString>
+				<SharedString name="ChildData2">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+				<int name="CollisionGroupId">0</int>
+				<Color3uint8 name="Color3uint8">4291045404</Color3uint8>
+				<PhysicalProperties name="CustomPhysicalProperties">
+					<CustomPhysics>false</CustomPhysics>
+				</PhysicalProperties>
+				<token name="FormFactor">3</token>
+				<float name="FrontParamA">-0.5</float>
+				<float name="FrontParamB">0.5</float>
+				<token name="FrontSurface">0</token>
+				<token name="FrontSurfaceInput">0</token>
+				<Vector3 name="InitialSize">
+					<X>4</X>
+					<Y>3.99999905</Y>
+					<Z>4</Z>
+				</Vector3>
+				<BinaryString name="LODData"></BinaryString>
+				<float name="LeftParamA">-0.5</float>
+				<float name="LeftParamB">0.5</float>
+				<token name="LeftSurface">0</token>
+				<token name="LeftSurfaceInput">0</token>
+				<bool name="Locked">false</bool>
+				<bool name="Massless">false</bool>
+				<token name="Material">256</token>
+				<BinaryString name="MeshData"></BinaryString>
+				<SharedString name="MeshData2">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+				<string name="Name">ConnectordForward</string>
+				<SharedString name="PhysicalConfigData">y07asqfIB13mFc+9PtSKhA==</SharedString>
+				<BinaryString name="PhysicsData"></BinaryString>
+				<CoordinateFrame name="PivotOffset">
+					<X>0</X>
+					<Y>0</Y>
+					<Z>0</Z>
+					<R00>1</R00>
+					<R01>0</R01>
+					<R02>0</R02>
+					<R10>0</R10>
+					<R11>1</R11>
+					<R12>0</R12>
+					<R20>0</R20>
+					<R21>0</R21>
+					<R22>1</R22>
+				</CoordinateFrame>
+				<float name="Reflectance">0</float>
+				<token name="RenderFidelity">1</token>
+				<float name="RightParamA">-0.5</float>
+				<float name="RightParamB">0.5</float>
+				<token name="RightSurface">0</token>
+				<token name="RightSurfaceInput">0</token>
+				<int name="RootPriority">0</int>
+				<Vector3 name="RotVelocity">
+					<X>0</X>
+					<Y>0</Y>
+					<Z>0</Z>
+				</Vector3>
+				<float name="SmoothingAngle">0</float>
+				<int64 name="SourceAssetId">-1</int64>
+				<BinaryString name="Tags"></BinaryString>
+				<float name="TopParamA">-0.5</float>
+				<float name="TopParamB">0.5</float>
+				<token name="TopSurface">0</token>
+				<token name="TopSurfaceInput">0</token>
+				<float name="Transparency">0</float>
+				<bool name="UsePartColor">true</bool>
+				<Vector3 name="Velocity">
+					<X>0</X>
+					<Y>0</Y>
+					<Z>0</Z>
+				</Vector3>
+				<Vector3 name="size">
+					<X>0.199999988</X>
+					<Y>0.199999034</Y>
+					<Z>0.199999988</Z>
+				</Vector3>
+			</Properties>
+			<Item class="Script" referent="RBX0D0FCD3C89D744179B2E28E861233BA5">
+				<Properties>
+					<BinaryString name="AttributesSerialize"></BinaryString>
+					<bool name="Disabled">false</bool>
+					<Content name="LinkedSource"><null></null></Content>
+					<string name="Name">Script</string>
+					<string name="ScriptGuid">{1C453087-B0C2-47DF-A3E3-F6DB8828B010}</string>
+					<ProtectedString name="Source"><![CDATA[script.Parent.ClickDetector.MouseClick:Connect(function()
+	script.Parent.Parent.Connector.Fix.Position = Vector3.new(script.Parent.Parent.Connector.Fix.Position.X, script.Parent.Parent.Connector.Fix.Position.Y, script.Parent.Parent.Connector.Fix.Position.Z+0.1)
+end)]]></ProtectedString>
+					<int64 name="SourceAssetId">-1</int64>
+					<BinaryString name="Tags"></BinaryString>
+				</Properties>
+			</Item>
+			<Item class="ClickDetector" referent="RBXB185474D76A64774B6F32B4ED2F4904C">
+				<Properties>
+					<BinaryString name="AttributesSerialize"></BinaryString>
+					<Content name="CursorIcon"><null></null></Content>
+					<float name="MaxActivationDistance">32</float>
+					<string name="Name">ClickDetector</string>
+					<int64 name="SourceAssetId">-1</int64>
+					<BinaryString name="Tags"></BinaryString>
+				</Properties>
+			</Item>
+		</Item>
+		<Item class="UnionOperation" referent="RBX2D4E7F6C1D4C4F5AAC85FF6C44A2C38D">
+			<Properties>
+				<bool name="Anchored">false</bool>
+				<Content name="AssetId"><url>https://www.roblox.com//asset/?id=6865088933</url></Content>
+				<BinaryString name="AttributesSerialize"></BinaryString>
+				<float name="BackParamA">-0.5</float>
+				<float name="BackParamB">0.5</float>
+				<token name="BackSurface">0</token>
+				<token name="BackSurfaceInput">0</token>
+				<float name="BottomParamA">-0.5</float>
+				<float name="BottomParamB">0.5</float>
+				<token name="BottomSurface">0</token>
+				<token name="BottomSurfaceInput">0</token>
+				<CoordinateFrame name="CFrame">
+					<X>31.2036209</X>
+					<Y>-22.7056351</Y>
+					<Z>24.2887859</Z>
+					<R00>1</R00>
+					<R01>-9.06691595e-17</R01>
+					<R02>4.37113741e-08</R02>
+					<R10>4.43329464e-15</R10>
+					<R11>-1</R11>
+					<R12>-8.74227766e-08</R12>
+					<R20>4.3711367e-08</R20>
+					<R21>8.74227624e-08</R21>
+					<R22>-0.999999881</R22>
+				</CoordinateFrame>
+				<bool name="CanCollide">false</bool>
+				<bool name="CanTouch">false</bool>
+				<bool name="CastShadow">true</bool>
+				<BinaryString name="ChildData"></BinaryString>
+				<SharedString name="ChildData2">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+				<int name="CollisionGroupId">0</int>
+				<Color3uint8 name="Color3uint8">4291045404</Color3uint8>
+				<PhysicalProperties name="CustomPhysicalProperties">
+					<CustomPhysics>false</CustomPhysics>
+				</PhysicalProperties>
+				<token name="FormFactor">3</token>
+				<float name="FrontParamA">-0.5</float>
+				<float name="FrontParamB">0.5</float>
+				<token name="FrontSurface">0</token>
+				<token name="FrontSurfaceInput">0</token>
+				<Vector3 name="InitialSize">
+					<X>4</X>
+					<Y>3.99999905</Y>
+					<Z>4</Z>
+				</Vector3>
+				<BinaryString name="LODData"></BinaryString>
+				<float name="LeftParamA">-0.5</float>
+				<float name="LeftParamB">0.5</float>
+				<token name="LeftSurface">0</token>
+				<token name="LeftSurfaceInput">0</token>
+				<bool name="Locked">false</bool>
+				<bool name="Massless">false</bool>
+				<token name="Material">256</token>
+				<BinaryString name="MeshData"></BinaryString>
+				<SharedString name="MeshData2">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+				<string name="Name">ConnectordDown</string>
+				<SharedString name="PhysicalConfigData">y07asqfIB13mFc+9PtSKhA==</SharedString>
+				<BinaryString name="PhysicsData"></BinaryString>
+				<CoordinateFrame name="PivotOffset">
+					<X>0</X>
+					<Y>0</Y>
+					<Z>0</Z>
+					<R00>1</R00>
+					<R01>0</R01>
+					<R02>0</R02>
+					<R10>0</R10>
+					<R11>1</R11>
+					<R12>0</R12>
+					<R20>0</R20>
+					<R21>0</R21>
+					<R22>1</R22>
+				</CoordinateFrame>
+				<float name="Reflectance">0</float>
+				<token name="RenderFidelity">1</token>
+				<float name="RightParamA">-0.5</float>
+				<float name="RightParamB">0.5</float>
+				<token name="RightSurface">0</token>
+				<token name="RightSurfaceInput">0</token>
+				<int name="RootPriority">0</int>
+				<Vector3 name="RotVelocity">
+					<X>0</X>
+					<Y>0</Y>
+					<Z>0</Z>
+				</Vector3>
+				<float name="SmoothingAngle">0</float>
+				<int64 name="SourceAssetId">-1</int64>
+				<BinaryString name="Tags"></BinaryString>
+				<float name="TopParamA">-0.5</float>
+				<float name="TopParamB">0.5</float>
+				<token name="TopSurface">0</token>
+				<token name="TopSurfaceInput">0</token>
+				<float name="Transparency">0</float>
+				<bool name="UsePartColor">true</bool>
+				<Vector3 name="Velocity">
+					<X>0</X>
+					<Y>0</Y>
+					<Z>0</Z>
+				</Vector3>
+				<Vector3 name="size">
+					<X>0.199999988</X>
+					<Y>0.199999034</Y>
+					<Z>0.199999988</Z>
+				</Vector3>
+			</Properties>
+			<Item class="Script" referent="RBX6CEB1D6306F6445485613FDCC937AFFB">
+				<Properties>
+					<BinaryString name="AttributesSerialize"></BinaryString>
+					<bool name="Disabled">false</bool>
+					<Content name="LinkedSource"><null></null></Content>
+					<string name="Name">Script</string>
+					<string name="ScriptGuid">{CF0AF1EF-362A-436F-AE98-1FF4AE088C0C}</string>
+					<ProtectedString name="Source"><![CDATA[script.Parent.ClickDetector.MouseClick:Connect(function()
+	script.Parent.Parent.Connector.Fix.Position = Vector3.new(script.Parent.Parent.Connector.Fix.Position.X, script.Parent.Parent.Connector.Fix.Position.Y+0.1, script.Parent.Parent.Connector.Fix.Position.Z)
+end)]]></ProtectedString>
+					<int64 name="SourceAssetId">-1</int64>
+					<BinaryString name="Tags"></BinaryString>
+				</Properties>
+			</Item>
+			<Item class="ClickDetector" referent="RBXDE140DC739034D52B67720EB95540C11">
+				<Properties>
+					<BinaryString name="AttributesSerialize"></BinaryString>
+					<Content name="CursorIcon"><null></null></Content>
+					<float name="MaxActivationDistance">32</float>
+					<string name="Name">ClickDetector</string>
+					<int64 name="SourceAssetId">-1</int64>
+					<BinaryString name="Tags"></BinaryString>
+				</Properties>
+			</Item>
+		</Item>
+		<Item class="UnionOperation" referent="RBX3CEA18B05AD6403CBA03F7098E30034A">
+			<Properties>
+				<bool name="Anchored">false</bool>
+				<Content name="AssetId"><url>https://www.roblox.com//asset/?id=6865088933</url></Content>
+				<BinaryString name="AttributesSerialize"></BinaryString>
+				<float name="BackParamA">-0.5</float>
+				<float name="BackParamB">0.5</float>
+				<token name="BackSurface">0</token>
+				<token name="BackSurfaceInput">0</token>
+				<float name="BottomParamA">-0.5</float>
+				<float name="BottomParamB">0.5</float>
+				<token name="BottomSurface">0</token>
+				<token name="BottomSurfaceInput">0</token>
+				<CoordinateFrame name="CFrame">
+					<X>31.2036209</X>
+					<Y>-22.5056362</Y>
+					<Z>24.0387859</Z>
+					<R00>-1.13649782e-14</R00>
+					<R01>-2.8014577e-07</R01>
+					<R02>-1</R02>
+					<R10>1</R10>
+					<R11>-4.37113954e-08</R11>
+					<R12>-7.02592389e-16</R12>
+					<R20>-4.37113776e-08</R20>
+					<R21>-0.999999762</R21>
+					<R22>2.80145713e-07</R22>
+				</CoordinateFrame>
+				<bool name="CanCollide">false</bool>
+				<bool name="CanTouch">false</bool>
+				<bool name="CastShadow">true</bool>
+				<BinaryString name="ChildData"></BinaryString>
+				<SharedString name="ChildData2">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+				<int name="CollisionGroupId">0</int>
+				<Color3uint8 name="Color3uint8">4291045404</Color3uint8>
+				<PhysicalProperties name="CustomPhysicalProperties">
+					<CustomPhysics>false</CustomPhysics>
+				</PhysicalProperties>
+				<token name="FormFactor">3</token>
+				<float name="FrontParamA">-0.5</float>
+				<float name="FrontParamB">0.5</float>
+				<token name="FrontSurface">0</token>
+				<token name="FrontSurfaceInput">0</token>
+				<Vector3 name="InitialSize">
+					<X>4</X>
+					<Y>3.99999905</Y>
+					<Z>4</Z>
+				</Vector3>
+				<BinaryString name="LODData"></BinaryString>
+				<float name="LeftParamA">-0.5</float>
+				<float name="LeftParamB">0.5</float>
+				<token name="LeftSurface">0</token>
+				<token name="LeftSurfaceInput">0</token>
+				<bool name="Locked">false</bool>
+				<bool name="Massless">false</bool>
+				<token name="Material">256</token>
+				<BinaryString name="MeshData"></BinaryString>
+				<SharedString name="MeshData2">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+				<string name="Name">ConnectordRight</string>
+				<SharedString name="PhysicalConfigData">y07asqfIB13mFc+9PtSKhA==</SharedString>
+				<BinaryString name="PhysicsData"></BinaryString>
+				<CoordinateFrame name="PivotOffset">
+					<X>0</X>
+					<Y>0</Y>
+					<Z>0</Z>
+					<R00>1</R00>
+					<R01>0</R01>
+					<R02>0</R02>
+					<R10>0</R10>
+					<R11>1</R11>
+					<R12>0</R12>
+					<R20>0</R20>
+					<R21>0</R21>
+					<R22>1</R22>
+				</CoordinateFrame>
+				<float name="Reflectance">0</float>
+				<token name="RenderFidelity">1</token>
+				<float name="RightParamA">-0.5</float>
+				<float name="RightParamB">0.5</float>
+				<token name="RightSurface">0</token>
+				<token name="RightSurfaceInput">0</token>
+				<int name="RootPriority">0</int>
+				<Vector3 name="RotVelocity">
+					<X>0</X>
+					<Y>0</Y>
+					<Z>0</Z>
+				</Vector3>
+				<float name="SmoothingAngle">0</float>
+				<int64 name="SourceAssetId">-1</int64>
+				<BinaryString name="Tags"></BinaryString>
+				<float name="TopParamA">-0.5</float>
+				<float name="TopParamB">0.5</float>
+				<token name="TopSurface">0</token>
+				<token name="TopSurfaceInput">0</token>
+				<float name="Transparency">0</float>
+				<bool name="UsePartColor">true</bool>
+				<Vector3 name="Velocity">
+					<X>0</X>
+					<Y>0</Y>
+					<Z>0</Z>
+				</Vector3>
+				<Vector3 name="size">
+					<X>0.199999988</X>
+					<Y>0.199999034</Y>
+					<Z>0.199999988</Z>
+				</Vector3>
+			</Properties>
+			<Item class="Script" referent="RBX6CE9B586F5EA4B7C971C691CF6DF6D16">
+				<Properties>
+					<BinaryString name="AttributesSerialize"></BinaryString>
+					<bool name="Disabled">false</bool>
+					<Content name="LinkedSource"><null></null></Content>
+					<string name="Name">Script</string>
+					<string name="ScriptGuid">{B04913CF-0649-40B0-84FC-17671AD5EA72}</string>
+					<ProtectedString name="Source"><![CDATA[script.Parent.ClickDetector.MouseClick:Connect(function()
+	script.Parent.Parent.Connector.Fix.Position = Vector3.new(script.Parent.Parent.Connector.Fix.Position.X+0.1, script.Parent.Parent.Connector.Fix.Position.Y, script.Parent.Parent.Connector.Fix.Position.Z)
+end)]]></ProtectedString>
+					<int64 name="SourceAssetId">-1</int64>
+					<BinaryString name="Tags"></BinaryString>
+				</Properties>
+			</Item>
+			<Item class="ClickDetector" referent="RBXBB1EA92AF4184707A82C4E3042853C7C">
+				<Properties>
+					<BinaryString name="AttributesSerialize"></BinaryString>
+					<Content name="CursorIcon"><null></null></Content>
+					<float name="MaxActivationDistance">32</float>
+					<string name="Name">ClickDetector</string>
+					<int64 name="SourceAssetId">-1</int64>
+					<BinaryString name="Tags"></BinaryString>
+				</Properties>
+			</Item>
+		</Item>
+		<Item class="UnionOperation" referent="RBX6FDA02244F24460DA555F81A069C593C">
+			<Properties>
+				<bool name="Anchored">false</bool>
+				<Content name="AssetId"><url>https://www.roblox.com//asset/?id=6865088933</url></Content>
+				<BinaryString name="AttributesSerialize"></BinaryString>
+				<float name="BackParamA">-0.5</float>
+				<float name="BackParamB">0.5</float>
+				<token name="BackSurface">0</token>
+				<token name="BackSurfaceInput">0</token>
+				<float name="BottomParamA">-0.5</float>
+				<float name="BottomParamB">0.5</float>
+				<token name="BottomSurface">0</token>
+				<token name="BottomSurfaceInput">0</token>
+				<CoordinateFrame name="CFrame">
+					<X>31.2036209</X>
+					<Y>-22.3056355</Y>
+					<Z>24.2887859</Z>
+					<R00>-1</R00>
+					<R01>9.06706418e-17</R01>
+					<R02>-1.19248966e-08</R02>
+					<R10>-6.11923706e-16</R10>
+					<R11>1</R11>
+					<R12>-3.55271368e-15</R12>
+					<R20>1.19248966e-08</R20>
+					<R21>3.55271368e-15</R21>
+					<R22>-0.999999881</R22>
+				</CoordinateFrame>
+				<bool name="CanCollide">false</bool>
+				<bool name="CanTouch">false</bool>
+				<bool name="CastShadow">true</bool>
+				<BinaryString name="ChildData"></BinaryString>
+				<SharedString name="ChildData2">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+				<int name="CollisionGroupId">0</int>
+				<Color3uint8 name="Color3uint8">4291045404</Color3uint8>
+				<PhysicalProperties name="CustomPhysicalProperties">
+					<CustomPhysics>false</CustomPhysics>
+				</PhysicalProperties>
+				<token name="FormFactor">3</token>
+				<float name="FrontParamA">-0.5</float>
+				<float name="FrontParamB">0.5</float>
+				<token name="FrontSurface">0</token>
+				<token name="FrontSurfaceInput">0</token>
+				<Vector3 name="InitialSize">
+					<X>4</X>
+					<Y>3.99999905</Y>
+					<Z>4</Z>
+				</Vector3>
+				<BinaryString name="LODData"></BinaryString>
+				<float name="LeftParamA">-0.5</float>
+				<float name="LeftParamB">0.5</float>
+				<token name="LeftSurface">0</token>
+				<token name="LeftSurfaceInput">0</token>
+				<bool name="Locked">false</bool>
+				<bool name="Massless">false</bool>
+				<token name="Material">256</token>
+				<BinaryString name="MeshData"></BinaryString>
+				<SharedString name="MeshData2">yuZpQdnvvUBOTYh1jqZ2cA==</SharedString>
+				<string name="Name">ConnectorUp</string>
+				<SharedString name="PhysicalConfigData">y07asqfIB13mFc+9PtSKhA==</SharedString>
+				<BinaryString name="PhysicsData"></BinaryString>
+				<CoordinateFrame name="PivotOffset">
+					<X>0</X>
+					<Y>0</Y>
+					<Z>0</Z>
+					<R00>1</R00>
+					<R01>0</R01>
+					<R02>0</R02>
+					<R10>0</R10>
+					<R11>1</R11>
+					<R12>0</R12>
+					<R20>0</R20>
+					<R21>0</R21>
+					<R22>1</R22>
+				</CoordinateFrame>
+				<float name="Reflectance">0</float>
+				<token name="RenderFidelity">1</token>
+				<float name="RightParamA">-0.5</float>
+				<float name="RightParamB">0.5</float>
+				<token name="RightSurface">0</token>
+				<token name="RightSurfaceInput">0</token>
+				<int name="RootPriority">0</int>
+				<Vector3 name="RotVelocity">
+					<X>0</X>
+					<Y>0</Y>
+					<Z>0</Z>
+				</Vector3>
+				<float name="SmoothingAngle">0</float>
+				<int64 name="SourceAssetId">-1</int64>
+				<BinaryString name="Tags"></BinaryString>
+				<float name="TopParamA">-0.5</float>
+				<float name="TopParamB">0.5</float>
+				<token name="TopSurface">0</token>
+				<token name="TopSurfaceInput">0</token>
+				<float name="Transparency">0</float>
+				<bool name="UsePartColor">true</bool>
+				<Vector3 name="Velocity">
+					<X>0</X>
+					<Y>0</Y>
+					<Z>0</Z>
+				</Vector3>
+				<Vector3 name="size">
+					<X>0.199999988</X>
+					<Y>0.199999034</Y>
+					<Z>0.199999988</Z>
+				</Vector3>
+			</Properties>
+			<Item class="Script" referent="RBX60F8400FC7B04CBFA80CC42628AE566F">
+				<Properties>
+					<BinaryString name="AttributesSerialize"></BinaryString>
+					<bool name="Disabled">false</bool>
+					<Content name="LinkedSource"><null></null></Content>
+					<string name="Name">Script</string>
+					<string name="ScriptGuid">{C9306C43-C85A-4F6E-A264-BCA030A41640}</string>
+					<ProtectedString name="Source"><![CDATA[script.Parent.ClickDetector.MouseClick:Connect(function()
+	script.Parent.Parent.Connector.Fix.Position = Vector3.new(script.Parent.Parent.Connector.Fix.Position.X, script.Parent.Parent.Connector.Fix.Position.Y-0.1, script.Parent.Parent.Connector.Fix.Position.Z)
+end)]]></ProtectedString>
+					<int64 name="SourceAssetId">-1</int64>
+					<BinaryString name="Tags"></BinaryString>
+				</Properties>
+			</Item>
+			<Item class="ClickDetector" referent="RBX17E6E31965F94080914DF564EC54FB74">
+				<Properties>
+					<BinaryString name="AttributesSerialize"></BinaryString>
+					<Content name="CursorIcon"><null></null></Content>
+					<float name="MaxActivationDistance">32</float>
+					<string name="Name">ClickDetector</string>
+					<int64 name="SourceAssetId">-1</int64>
+					<BinaryString name="Tags"></BinaryString>
+				</Properties>
+			</Item>
+			<Item class="Weld" referent="RBX57B39D0635C1453AA5BCB5C105022299">
+				<Properties>
+					<BinaryString name="AttributesSerialize"></BinaryString>
+					<CoordinateFrame name="C0">
+						<X>0</X>
+						<Y>0</Y>
+						<Z>0</Z>
+						<R00>1</R00>
+						<R01>0</R01>
+						<R02>0</R02>
+						<R10>0</R10>
+						<R11>1</R11>
+						<R12>0</R12>
+						<R20>0</R20>
+						<R21>0</R21>
+						<R22>1</R22>
+					</CoordinateFrame>
+					<CoordinateFrame name="C1">
+						<X>0</X>
+						<Y>-0.399999976</Y>
+						<Z>0</Z>
+						<R00>-1</R00>
+						<R01>3.82137093e-15</R01>
+						<R02>-5.56362707e-08</R02>
+						<R10>1.04250613e-15</R10>
+						<R11>-1</R11>
+						<R12>-8.74227766e-08</R12>
+						<R20>-5.56362707e-08</R20>
+						<R21>-8.74227766e-08</R21>
+						<R22>1</R22>
+					</CoordinateFrame>
+					<bool name="Enabled">true</bool>
+					<string name="Name">Weld</string>
+					<Ref name="Part0">RBX6FDA02244F24460DA555F81A069C593C</Ref>
+					<Ref name="Part1">RBX2D4E7F6C1D4C4F5AAC85FF6C44A2C38D</Ref>
+					<int64 name="SourceAssetId">-1</int64>
+					<BinaryString name="Tags"></BinaryString>
+				</Properties>
+			</Item>
+			<Item class="Weld" referent="RBX3073E27EBC9A4B398C49F3F624AAE60A">
+				<Properties>
+					<BinaryString name="AttributesSerialize"></BinaryString>
+					<CoordinateFrame name="C0">
+						<X>0</X>
+						<Y>0</Y>
+						<Z>0</Z>
+						<R00>1</R00>
+						<R01>0</R01>
+						<R02>0</R02>
+						<R10>0</R10>
+						<R11>1</R11>
+						<R12>0</R12>
+						<R20>0</R20>
+						<R21>0</R21>
+						<R22>1</R22>
+					</CoordinateFrame>
+					<CoordinateFrame name="C1">
+						<X>0.199999869</X>
+						<Y>-0.249999881</Y>
+						<Z>0</Z>
+						<R00>4.37113918e-08</R00>
+						<R01>1</R01>
+						<R02>-4.37113847e-08</R02>
+						<R10>-1</R10>
+						<R11>4.37113883e-08</R11>
+						<R12>-9.93476519e-08</R12>
+						<R20>-9.9347659e-08</R20>
+						<R21>4.37113918e-08</R21>
+						<R22>0.99999994</R22>
+					</CoordinateFrame>
+					<bool name="Enabled">true</bool>
+					<string name="Name">Weld</string>
+					<Ref name="Part0">RBX6FDA02244F24460DA555F81A069C593C</Ref>
+					<Ref name="Part1">RBXB66943DCE3A545C98DA958FFF4A35AA2</Ref>
+					<int64 name="SourceAssetId">-1</int64>
+					<BinaryString name="Tags"></BinaryString>
+				</Properties>
+			</Item>
+			<Item class="Weld" referent="RBX706552B78F784508B049BAA5E87E58D4">
+				<Properties>
+					<BinaryString name="AttributesSerialize"></BinaryString>
+					<CoordinateFrame name="C0">
+						<X>0</X>
+						<Y>0</Y>
+						<Z>0</Z>
+						<R00>1</R00>
+						<R01>0</R01>
+						<R02>0</R02>
+						<R10>0</R10>
+						<R11>1</R11>
+						<R12>0</R12>
+						<R20>0</R20>
+						<R21>0</R21>
+						<R22>1</R22>
+					</CoordinateFrame>
+					<CoordinateFrame name="C1">
+						<X>0.199999869</X>
+						<Y>-0.25</Y>
+						<Z>2.38418579e-07</Z>
+						<R00>-1.61576007e-14</R00>
+						<R01>1</R01>
+						<R02>-4.37113883e-08</R02>
+						<R10>-3.55643635e-07</R10>
+						<R11>-4.37113883e-08</R11>
+						<R12>-0.999999881</R12>
+						<R20>-1</R20>
+						<R21>2.68657675e-16</R21>
+						<R22>3.55643579e-07</R22>
+					</CoordinateFrame>
+					<bool name="Enabled">true</bool>
+					<string name="Name">Weld</string>
+					<Ref name="Part0">RBX6FDA02244F24460DA555F81A069C593C</Ref>
+					<Ref name="Part1">RBX71D244CACC2C48B5AD9A9AB3D735AFC2</Ref>
+					<int64 name="SourceAssetId">-1</int64>
+					<BinaryString name="Tags"></BinaryString>
+				</Properties>
+			</Item>
+			<Item class="Weld" referent="RBX4FD590BB9AB146D7B872051421C81B5E">
+				<Properties>
+					<BinaryString name="AttributesSerialize"></BinaryString>
+					<CoordinateFrame name="C0">
+						<X>0</X>
+						<Y>0</Y>
+						<Z>0</Z>
+						<R00>1</R00>
+						<R01>0</R01>
+						<R02>0</R02>
+						<R10>0</R10>
+						<R11>1</R11>
+						<R12>0</R12>
+						<R20>0</R20>
+						<R21>0</R21>
+						<R22>1</R22>
+					</CoordinateFrame>
+					<CoordinateFrame name="C1">
+						<X>0.199999869</X>
+						<Y>-0.25</Y>
+						<Z>-5.96046448e-08</Z>
+						<R00>1.09343949e-14</R00>
+						<R01>1</R01>
+						<R02>4.37113847e-08</R02>
+						<R10>2.68220873e-07</R10>
+						<R11>-4.37113918e-08</R11>
+						<R12>0.999999881</R12>
+						<R20>1</R20>
+						<R21>-9.06696492e-17</R21>
+						<R22>-2.68220845e-07</R22>
+					</CoordinateFrame>
+					<bool name="Enabled">true</bool>
+					<string name="Name">Weld</string>
+					<Ref name="Part0">RBX6FDA02244F24460DA555F81A069C593C</Ref>
+					<Ref name="Part1">RBX3CEA18B05AD6403CBA03F7098E30034A</Ref>
+					<int64 name="SourceAssetId">-1</int64>
+					<BinaryString name="Tags"></BinaryString>
+				</Properties>
+			</Item>
+			<Item class="Weld" referent="RBX748372ABB0194AAD9886308583C08BB9">
+				<Properties>
+					<BinaryString name="AttributesSerialize"></BinaryString>
+					<CoordinateFrame name="C0">
+						<X>0</X>
+						<Y>0</Y>
+						<Z>0</Z>
+						<R00>1</R00>
+						<R01>0</R01>
+						<R02>0</R02>
+						<R10>0</R10>
+						<R11>1</R11>
+						<R12>0</R12>
+						<R20>0</R20>
+						<R21>0</R21>
+						<R22>1</R22>
+					</CoordinateFrame>
+					<CoordinateFrame name="C1">
+						<X>0.199999839</X>
+						<Y>-0.250000119</Y>
+						<Z>0</Z>
+						<R00>4.37113918e-08</R00>
+						<R01>1</R01>
+						<R02>-1.45777775e-14</R02>
+						<R10>1</R10>
+						<R11>-4.37113883e-08</R11>
+						<R12>-2.56295976e-07</R12>
+						<R20>-2.56296005e-07</R20>
+						<R21>3.55271368e-15</R21>
+						<R22>-0.999999881</R22>
+					</CoordinateFrame>
+					<bool name="Enabled">true</bool>
+					<string name="Name">Weld</string>
+					<Ref name="Part0">RBX6FDA02244F24460DA555F81A069C593C</Ref>
+					<Ref name="Part1">RBXE7C322B96B3B4471A132B8B2BB15F72F</Ref>
+					<int64 name="SourceAssetId">-1</int64>
+					<BinaryString name="Tags"></BinaryString>
+				</Properties>
+			</Item>
+			<Item class="Weld" referent="RBX7083428273DC4CCABDE187FB229BA0E5">
+				<Properties>
+					<BinaryString name="AttributesSerialize"></BinaryString>
+					<CoordinateFrame name="C0">
+						<X>0</X>
+						<Y>0</Y>
+						<Z>0</Z>
+						<R00>1</R00>
+						<R01>0</R01>
+						<R02>0</R02>
+						<R10>0</R10>
+						<R11>1</R11>
+						<R12>0</R12>
+						<R20>0</R20>
+						<R21>0</R21>
+						<R22>1</R22>
+					</CoordinateFrame>
+					<CoordinateFrame name="C1">
+						<X>-1.90734863e-06</X>
+						<Y>0.199999452</Y>
+						<Z>-1.1920929e-07</Z>
+						<R00>1.19248966e-08</R00>
+						<R01>3.55271368e-15</R01>
+						<R02>-0.999999881</R02>
+						<R10>-6.11923706e-16</R10>
+						<R11>1</R11>
+						<R12>-3.55271368e-15</R12>
+						<R20>1</R20>
+						<R21>-9.06706418e-17</R21>
+						<R22>1.19248966e-08</R22>
+					</CoordinateFrame>
+					<bool name="Enabled">true</bool>
+					<string name="Name">Weld</string>
+					<Ref name="Part0">RBX6FDA02244F24460DA555F81A069C593C</Ref>
+					<Ref name="Part1">RBXC8B7650FD9A548B588FDC0D43DDF4C6D</Ref>
+					<int64 name="SourceAssetId">-1</int64>
+					<BinaryString name="Tags"></BinaryString>
+				</Properties>
+			</Item>
+		</Item>
+		<Item class="Part" referent="RBXC8B7650FD9A548B588FDC0D43DDF4C6D">
+			<Properties>
+				<bool name="Anchored">false</bool>
+				<BinaryString name="AttributesSerialize"></BinaryString>
+				<float name="BackParamA">-0.5</float>
+				<float name="BackParamB">0.5</float>
+				<token name="BackSurface">0</token>
+				<token name="BackSurfaceInput">0</token>
+				<float name="BottomParamA">-0.5</float>
+				<float name="BottomParamB">0.5</float>
+				<token name="BottomSurface">0</token>
+				<token name="BottomSurfaceInput">0</token>
+				<CoordinateFrame name="CFrame">
+					<X>31.2036209</X>
+					<Y>-22.5056343</Y>
+					<Z>24.2887878</Z>
+					<R00>0</R00>
+					<R01>0</R01>
+					<R02>-1</R02>
+					<R10>0</R10>
+					<R11>1</R11>
+					<R12>0</R12>
+					<R20>1</R20>
+					<R21>0</R21>
+					<R22>0</R22>
+				</CoordinateFrame>
+				<bool name="CanCollide">true</bool>
+				<bool name="CanTouch">true</bool>
+				<bool name="CastShadow">true</bool>
+				<int name="CollisionGroupId">0</int>
+				<Color3uint8 name="Color3uint8">4288914085</Color3uint8>
+				<PhysicalProperties name="CustomPhysicalProperties">
+					<CustomPhysics>false</CustomPhysics>
+				</PhysicalProperties>
+				<float name="FrontParamA">-0.5</float>
+				<float name="FrontParamB">0.5</float>
+				<token name="FrontSurface">0</token>
+				<token name="FrontSurfaceInput">0</token>
+				<float name="LeftParamA">-0.5</float>
+				<float name="LeftParamB">0.5</float>
+				<token name="LeftSurface">0</token>
+				<token name="LeftSurfaceInput">0</token>
+				<bool name="Locked">false</bool>
+				<bool name="Massless">false</bool>
+				<token name="Material">1088</token>
+				<string name="Name">Connector</string>
+				<CoordinateFrame name="PivotOffset">
+					<X>0</X>
+					<Y>0</Y>
+					<Z>0</Z>
+					<R00>1</R00>
+					<R01>0</R01>
+					<R02>0</R02>
+					<R10>0</R10>
+					<R11>1</R11>
+					<R12>0</R12>
+					<R20>0</R20>
+					<R21>0</R21>
+					<R22>1</R22>
+				</CoordinateFrame>
+				<float name="Reflectance">0</float>
+				<float name="RightParamA">-0.5</float>
+				<float name="RightParamB">0.5</float>
+				<token name="RightSurface">0</token>
+				<token name="RightSurfaceInput">0</token>
+				<int name="RootPriority">0</int>
+				<Vector3 name="RotVelocity">
+					<X>0</X>
+					<Y>0</Y>
+					<Z>0</Z>
+				</Vector3>
+				<int64 name="SourceAssetId">-1</int64>
+				<BinaryString name="Tags"></BinaryString>
+				<float name="TopParamA">-0.5</float>
+				<float name="TopParamB">0.5</float>
+				<token name="TopSurface">0</token>
+				<token name="TopSurfaceInput">0</token>
+				<float name="Transparency">0</float>
+				<Vector3 name="Velocity">
+					<X>0</X>
+					<Y>0</Y>
+					<Z>0</Z>
+				</Vector3>
+				<token name="formFactorRaw">1</token>
+				<token name="shape">1</token>
+				<Vector3 name="size">
+					<X>0.0999999046</X>
+					<Y>0.100000024</Y>
+					<Z>0.199999958</Z>
+				</Vector3>
+			</Properties>
+			<Item class="Attachment" referent="RBXD5ECD59D9AF34CE0A96AB782296B32CC">
+				<Properties>
+					<BinaryString name="AttributesSerialize"></BinaryString>
+					<CoordinateFrame name="CFrame">
+						<X>0</X>
+						<Y>0</Y>
+						<Z>-0.0499999523</Z>
+						<R00>1</R00>
+						<R01>0</R01>
+						<R02>0</R02>
+						<R10>0</R10>
+						<R11>1</R11>
+						<R12>0</R12>
+						<R20>0</R20>
+						<R21>0</R21>
+						<R22>1</R22>
+					</CoordinateFrame>
+					<string name="Name">Attachment</string>
+					<int64 name="SourceAssetId">-1</int64>
+					<BinaryString name="Tags"></BinaryString>
+					<bool name="Visible">false</bool>
+				</Properties>
+			</Item>
+			<Item class="Script" referent="RBX302FA6BFC4DE4FF2A9A16FD5CC1545A4">
+				<Properties>
+					<BinaryString name="AttributesSerialize"></BinaryString>
+					<bool name="Disabled">false</bool>
+					<Content name="LinkedSource"><null></null></Content>
+					<string name="Name">XrayScript</string>
+					<string name="ScriptGuid">{890F78B9-05B8-46BB-897F-EAAC106D6F1F}</string>
+					<ProtectedString name="Source"><![CDATA[function onTouched(hit)
+	if hit.Parent.ClassName == "Model" then
+		hit.Name = "XrayHit"
+		wait(0.01)
+		local getprinted = hit.Parent:Clone()
+		getprinted.Parent = script.Parent.Xray.Viewer
+		getprinted:MoveTo(Vector3.new(0, 0, 11.5))
+		getprinted.XrayHit.Transparency = 0.75
+	end
+end
+
+script.Parent.Touched:Connect(onTouched)]]></ProtectedString>
+					<int64 name="SourceAssetId">-1</int64>
+					<BinaryString name="Tags"></BinaryString>
+				</Properties>
+			</Item>
+			<Item class="Vector3Value" referent="RBX0E493129825B40A9AF7E6B70087C62F7">
+				<Properties>
+					<BinaryString name="AttributesSerialize"></BinaryString>
+					<string name="Name">PositionValue</string>
+					<int64 name="SourceAssetId">-1</int64>
+					<BinaryString name="Tags"></BinaryString>
+					<Vector3 name="Value">
+						<X>0</X>
+						<Y>0</Y>
+						<Z>0</Z>
+					</Vector3>
+				</Properties>
+			</Item>
+			<Item class="BodyPosition" referent="RBXBD85A0EBFD5D49DF942E2DC3B1A4A1A4">
+				<Properties>
+					<BinaryString name="AttributesSerialize"></BinaryString>
+					<float name="D">1250</float>
+					<Vector3 name="MaxForce">
+						<X>4000</X>
+						<Y>4000</Y>
+						<Z>4000</Z>
+					</Vector3>
+					<string name="Name">Fix</string>
+					<float name="P">10000</float>
+					<Vector3 name="Position">
+						<X>0</X>
+						<Y>0</Y>
+						<Z>0</Z>
+					</Vector3>
+					<int64 name="SourceAssetId">-1</int64>
+					<BinaryString name="Tags"></BinaryString>
+				</Properties>
+				<Item class="Script" referent="RBXE97423890644477A9849A9DBA7E1F3B5">
+					<Properties>
+						<BinaryString name="AttributesSerialize"></BinaryString>
+						<bool name="Disabled">false</bool>
+						<Content name="LinkedSource"><null></null></Content>
+						<string name="Name">Script</string>
+						<string name="ScriptGuid">{874B097D-3F20-4BAF-8E09-D87B0F48491C}</string>
+						<ProtectedString name="Source"><![CDATA[wait(0.02)
+script.Parent.Position = script.Parent.Parent.PositionValue.Value
+wait(0.01)
+script:Destroy()]]></ProtectedString>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags"></BinaryString>
+					</Properties>
+				</Item>
+			</Item>
+			<Item class="Script" referent="RBXBF9083CB83414B29A87D71E91FF6FB6E">
+				<Properties>
+					<BinaryString name="AttributesSerialize"></BinaryString>
+					<bool name="Disabled">false</bool>
+					<Content name="LinkedSource"><null></null></Content>
+					<string name="Name">Rotation</string>
+					<string name="ScriptGuid">{E460F3CE-C6D6-4147-9D65-337253B4FC60}</string>
+					<ProtectedString name="Source"><![CDATA[while wait() do
+	script.Parent.Orientation = Vector3.new(0, 0, 0)
+end]]></ProtectedString>
+					<int64 name="SourceAssetId">-1</int64>
+					<BinaryString name="Tags"></BinaryString>
+				</Properties>
+			</Item>
+			<Item class="ScreenGui" referent="RBX38B6225ABF8049BC9E4EAF938B915E38">
+				<Properties>
+					<BinaryString name="AttributesSerialize"></BinaryString>
+					<bool name="AutoLocalize">true</bool>
+					<int name="DisplayOrder">0</int>
+					<bool name="Enabled">true</bool>
+					<bool name="IgnoreGuiInset">false</bool>
+					<string name="Name">Xray</string>
+					<bool name="ResetOnSpawn">true</bool>
+					<Ref name="RootLocalizationTable">null</Ref>
+					<int64 name="SourceAssetId">-1</int64>
+					<BinaryString name="Tags"></BinaryString>
+					<token name="ZIndexBehavior">1</token>
+				</Properties>
+				<Item class="ViewportFrame" referent="RBX884BD1860D7A4B49A18A2D85ACECE80E">
+					<Properties>
+						<bool name="Active">false</bool>
+						<Color3 name="Ambient">
+							<R>0.784313738</R>
+							<G>0.784313738</G>
+							<B>0.784313738</B>
+						</Color3>
+						<Vector2 name="AnchorPoint">
+							<X>0</X>
+							<Y>0</Y>
+						</Vector2>
+						<BinaryString name="AttributesSerialize"></BinaryString>
+						<bool name="AutoLocalize">true</bool>
+						<token name="AutomaticSize">0</token>
+						<Color3 name="BackgroundColor3">
+							<R>1</R>
+							<G>1</G>
+							<B>1</B>
+						</Color3>
+						<float name="BackgroundTransparency">1</float>
+						<Color3 name="BorderColor3">
+							<R>0.105882362</R>
+							<G>0.164705887</G>
+							<B>0.207843155</B>
+						</Color3>
+						<token name="BorderMode">0</token>
+						<int name="BorderSizePixel">1</int>
+						<CoordinateFrame name="CameraCFrame">
+							<X>-0.354596376</X>
+							<Y>0.168889761</Y>
+							<Z>-1.85896146</Z>
+							<R00>-0.982289195</R00>
+							<R01>0.0166553184</R01>
+							<R02>-0.186629668</R02>
+							<R10>-0</R10>
+							<R11>0.996041536</R11>
+							<R12>0.0888893455</R12>
+							<R20>0.187371373</R20>
+							<R21>0.0873150453</R21>
+							<R22>-0.978400767</R22>
+						</CoordinateFrame>
+						<float name="CameraFieldOfView">1.22173059</float>
+						<bool name="ClipsDescendants">false</bool>
+						<bool name="Draggable">false</bool>
+						<Color3 name="ImageColor3">
+							<R>1</R>
+							<G>1</G>
+							<B>1</B>
+						</Color3>
+						<float name="ImageTransparency">0</float>
+						<int name="LayoutOrder">0</int>
+						<Color3 name="LightColor">
+							<R>0.549019635</R>
+							<G>0.549019635</G>
+							<B>0.549019635</B>
+						</Color3>
+						<Vector3 name="LightDirection">
+							<X>1.15226352</X>
+							<Y>-1.0849309</Y>
+							<Z>0.703714371</Z>
+						</Vector3>
+						<string name="Name">Viewer</string>
+						<Ref name="NextSelectionDown">null</Ref>
+						<Ref name="NextSelectionLeft">null</Ref>
+						<Ref name="NextSelectionRight">null</Ref>
+						<Ref name="NextSelectionUp">null</Ref>
+						<UDim2 name="Position">
+							<XS>0</XS>
+							<XO>0</XO>
+							<YS>0</YS>
+							<YO>0</YO>
+						</UDim2>
+						<Ref name="RootLocalizationTable">null</Ref>
+						<float name="Rotation">0</float>
+						<bool name="Selectable">true</bool>
+						<Ref name="SelectionImageObject">null</Ref>
+						<UDim2 name="Size">
+							<XS>1</XS>
+							<XO>0</XO>
+							<YS>1</YS>
+							<YO>0</YO>
+						</UDim2>
+						<token name="SizeConstraint">0</token>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags"></BinaryString>
+						<bool name="Visible">true</bool>
+						<int name="ZIndex">10</int>
+					</Properties>
+				</Item>
+				<Item class="TextButton" referent="RBX8E910AAF9EF2400DBA5159B528224D75">
+					<Properties>
+						<bool name="Active">true</bool>
+						<Vector2 name="AnchorPoint">
+							<X>0</X>
+							<Y>0</Y>
+						</Vector2>
+						<BinaryString name="AttributesSerialize"></BinaryString>
+						<bool name="AutoButtonColor">true</bool>
+						<bool name="AutoLocalize">true</bool>
+						<token name="AutomaticSize">0</token>
+						<Color3 name="BackgroundColor3">
+							<R>1</R>
+							<G>0</G>
+							<B>0</B>
+						</Color3>
+						<float name="BackgroundTransparency">0</float>
+						<Color3 name="BorderColor3">
+							<R>0.105882362</R>
+							<G>0.164705887</G>
+							<B>0.207843155</B>
+						</Color3>
+						<token name="BorderMode">0</token>
+						<int name="BorderSizePixel">1</int>
+						<bool name="ClipsDescendants">false</bool>
+						<bool name="Draggable">false</bool>
+						<token name="Font">3</token>
+						<int name="LayoutOrder">0</int>
+						<float name="LineHeight">1</float>
+						<int name="MaxVisibleGraphemes">-1</int>
+						<bool name="Modal">false</bool>
+						<string name="Name">Exit</string>
+						<Ref name="NextSelectionDown">null</Ref>
+						<Ref name="NextSelectionLeft">null</Ref>
+						<Ref name="NextSelectionRight">null</Ref>
+						<Ref name="NextSelectionUp">null</Ref>
+						<UDim2 name="Position">
+							<XS>0.961656451</XS>
+							<XO>0</XO>
+							<YS>0</YS>
+							<YO>0</YO>
+						</UDim2>
+						<bool name="RichText">false</bool>
+						<Ref name="RootLocalizationTable">null</Ref>
+						<float name="Rotation">0</float>
+						<bool name="Selectable">true</bool>
+						<bool name="Selected">false</bool>
+						<Ref name="SelectionImageObject">null</Ref>
+						<UDim2 name="Size">
+							<XS>0</XS>
+							<XO>50</XO>
+							<YS>0</YS>
+							<YO>50</YO>
+						</UDim2>
+						<token name="SizeConstraint">0</token>
+						<int64 name="SourceAssetId">-1</int64>
+						<token name="Style">3</token>
+						<BinaryString name="Tags"></BinaryString>
+						<string name="Text">X</string>
+						<Color3 name="TextColor3">
+							<R>0</R>
+							<G>0</G>
+							<B>0</B>
+						</Color3>
+						<bool name="TextScaled">false</bool>
+						<float name="TextSize">14</float>
+						<Color3 name="TextStrokeColor3">
+							<R>0</R>
+							<G>0</G>
+							<B>0</B>
+						</Color3>
+						<float name="TextStrokeTransparency">1</float>
+						<float name="TextTransparency">0</float>
+						<token name="TextTruncate">0</token>
+						<bool name="TextWrapped">false</bool>
+						<token name="TextXAlignment">2</token>
+						<token name="TextYAlignment">1</token>
+						<bool name="Visible">true</bool>
+						<int name="ZIndex">1</int>
+					</Properties>
+				</Item>
+				<Item class="Script" referent="RBX1B585AA06C8C4D67950579724A9DD023">
+					<Properties>
+						<BinaryString name="AttributesSerialize"></BinaryString>
+						<bool name="Disabled">false</bool>
+						<Content name="LinkedSource"><null></null></Content>
+						<string name="Name">Script</string>
+						<string name="ScriptGuid">{7808B452-BF85-4CBE-8BDE-40F1067149E6}</string>
+						<ProtectedString name="Source"><![CDATA[script.Parent.Exit.MouseButton1Click:Connect(function()
+	script.Parent:Destroy()
+end)]]></ProtectedString>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags"></BinaryString>
+					</Properties>
+				</Item>
+			</Item>
+			<Item class="Script" referent="RBXDBA92B72126E419BB1C470391BCC31E5">
+				<Properties>
+					<BinaryString name="AttributesSerialize"></BinaryString>
+					<bool name="Disabled">false</bool>
+					<Content name="LinkedSource"><null></null></Content>
+					<string name="Name">Value</string>
+					<string name="ScriptGuid">{CFB7543F-BD0A-4312-82A1-ACFF65057ED7}</string>
+					<ProtectedString name="Source"><![CDATA[script.Parent.PositionValue.Value = script.Parent.Position
+wait(0.01)
+script:Destroy()]]></ProtectedString>
+					<int64 name="SourceAssetId">-1</int64>
+					<BinaryString name="Tags"></BinaryString>
+				</Properties>
+			</Item>
+		</Item>
+	</Item>
+	<SharedStrings>
+		<SharedString md5="yuZpQdnvvUBOTYh1jqZ2cA=="></SharedString>
+		<SharedString md5="y07asqfIB13mFc+9PtSKhA==">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
+AAAAAAAAwPz//78AAABA/P9/vwAAgLQAAIA//P9/vwCQTbkAAAAA/P9/v/z//78AAABAGAAA
+AAAAAAABAAAABQAAAAAAAAAFAAAAAgAAAAAAAAACAAAAAwAAAAAAAAADAAAABAAAAAAAAAAE
+AAAAAQAAAAEAAAAEAAAAAwAAAAEAAAADAAAABQAAAAIAAAAFAAAAAwAAABAAAAAAAAAAAAAA
+AAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAgD8YAAAABAAAAAAAADX8//+/AAAAwADATLn0
+/3+/AADAvwAAADX0/3+/lvm/vwAAADX8//+/AAAAAPz//7/8//+/lvn/v5L5v7/0/3+/lvm/
+v5L5v7/0/3+/AAAAAPz//7/8//+/AAAAACQAAAAAAAAAAQAAAAIAAAAAAAAAAgAAAAMAAAAA
+AAAAAwAAAAcAAAAAAAAABwAAAAQAAAAAAAAABAAAAAEAAAABAAAABAAAAAUAAAABAAAABQAA
+AAYAAAABAAAABgAAAAIAAAACAAAABgAAAAMAAAADAAAABgAAAAcAAAAEAAAABwAAAAYAAAAE
+AAAABgAAAAUAAAAQAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAIA/DwAA
+AAQAAACY+f8//P//vwAAAEAAQE05BgAAQAAAAAAAQE05/P//vwAAAECY+f8//P//vwAAAMAA
+QE05/P//vwAAAMASAAAAAAAAAAEAAAACAAAAAAAAAAIAAAAEAAAAAAAAAAQAAAADAAAAAAAA
+AAMAAAABAAAAAQAAAAMAAAAEAAAAAQAAAAQAAAACAAAA</SharedString>
+		<SharedString md5="3Kv2ZpgEwAvcwW5M3VhDXA==">Q1NHUEhTBgAAAJxEtz/Z+6w7ZsoyvU94w71s0P4+I0GLujjJOzlLttw+2DtqvEm35T4QAAAA
+AAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAIA/GwAAAAQAAACA/6m+AACAM+x6
+fr4Dkkq+AACAM3uweL6A/6m+qxpKPp2oZL6A/6m+OhO8PjFzTr76iH2+XVXHPnLvR77gHaA7
+AODvOGzwb77gHaA7XVXHPggKPb6A/6m+jLDCPkTCTL6A/6m+XVXHPuSSS74qAAAAAAAAAAEA
+AAACAAAAAAAAAAIAAAAHAAAAAAAAAAcAAAAIAAAAAAAAAAgAAAADAAAAAAAAAAMAAAAEAAAA
+AAAAAAQAAAAFAAAAAAAAAAUAAAABAAAAAQAAAAUAAAACAAAAAgAAAAUAAAAGAAAAAgAAAAYA
+AAAHAAAAAwAAAAgAAAAEAAAABAAAAAYAAAAFAAAABAAAAAgAAAAGAAAABgAAAAgAAAAHAAAA
+EAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAACAPxsAAAAEAAAAAEeiOwA4
+7jhm8m++EMuvPgAAoDPElX2+4HKkOwAAoDMD9G++4FyjOy7sxT6QZj2+aM+vPg3aFz7OEWq+
+EMuvPikRTz4i9WK+LQGLPgAAoDNXrnq+ALoRPC7sxT4GOz2+EMuvPi7sxT52tEq+KgAAAAAA
+AAABAAAAAgAAAAAAAAACAAAAAwAAAAAAAAADAAAAAQAAAAEAAAADAAAABAAAAAEAAAAEAAAA
+BQAAAAEAAAAFAAAABgAAAAEAAAAGAAAAAgAAAAIAAAAGAAAABQAAAAIAAAAFAAAABwAAAAIA
+AAAHAAAAAwAAAAMAAAAHAAAACAAAAAMAAAAIAAAABAAAAAQAAAAIAAAABQAAAAUAAAAIAAAA
+BwAAABAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAgD82AAAABAAAAMjF
+aD5T1cW+5Br2PjDIGzxT1cW+G9P1PiCDazuUFcm+2xX1PiCDazuyOve+7ZHqPsjFaD6kgw2/
+Kq7iPkTRaD73iQy/Jd+0PkTRaD6fggy/RcOzPkTRaD7b6gu/os+XPsjFaD4IJwu/UMlnPjK7
+FT5Cowi/UMlnPiCDaztT1cW+2M/1PoATajvG8Ay/5qriPsjFaD5lbUS/7uKVPkTRaD4ckkS/
+CFdyPkTRaD4Cl0S/UMlnPiCDazsqlAq/UMlnPiCDazuWBkS/UMlnPiCDazuG2kO/qt+VPmAA
+AAAAAAAAAQAAAAIAAAAAAAAAAgAAAAMAAAAAAAAAAwAAAAQAAAAAAAAABAAAAAUAAAAAAAAA
+BQAAAAYAAAAAAAAABgAAAAcAAAAAAAAABwAAAAgAAAAAAAAACAAAAAkAAAAAAAAACQAAAAoA
+AAAAAAAACgAAAAEAAAABAAAACgAAAAIAAAACAAAACgAAAAsAAAACAAAACwAAAAMAAAADAAAA
+CwAAAAQAAAAEAAAACwAAAAwAAAAEAAAADAAAAA0AAAAEAAAADQAAAAUAAAAFAAAADQAAAA4A
+AAAFAAAADgAAAAcAAAAFAAAABwAAAAYAAAAHAAAADgAAAAgAAAAIAAAADgAAABAAAAAIAAAA
+EAAAAA8AAAAIAAAADwAAAAkAAAAJAAAADwAAAAoAAAAKAAAADwAAAAsAAAALAAAAEAAAABEA
+AAALAAAAEQAAAAwAAAALAAAADwAAABAAAAAMAAAAEQAAABAAAAAMAAAAEAAAAA0AAAANAAAA
+EAAAAA4AAAAQAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAIA/JwAAAAQA
+AAAAFGo7KbDEvqgU9j7K/ha+L+IHv5iUZz5OxGe+KbDEvtTM9T5OxGe+np7GvtJd9T4AFGo7
+gW0Dv4cB5z4AFGo7BZIKv5iUZz5OxGe+tPwJv5iUZz5OxGe+wlsMvzGo4j6Ammg7E/EMv3Wr
+4j4AFGo72tpDvybelT4AFGo7dwREv5iUZz5OxGe+Jm9Dv5iUZz5OxGe+FkNDv+LalT5CAAAA
+AAAAAAEAAAACAAAAAAAAAAIAAAADAAAAAAAAAAMAAAAEAAAAAAAAAAQAAAAJAAAAAAAAAAkA
+AAAKAAAAAAAAAAoAAAAFAAAAAAAAAAUAAAABAAAAAQAAAAYAAAACAAAAAQAAAAUAAAAKAAAA
+AQAAAAoAAAALAAAAAQAAAAsAAAAGAAAAAgAAAAYAAAALAAAAAgAAAAsAAAAMAAAAAgAAAAwA
+AAAHAAAAAgAAAAcAAAADAAAAAwAAAAcAAAAIAAAAAwAAAAgAAAAEAAAABAAAAAgAAAAJAAAA
+BwAAAAwAAAAJAAAABwAAAAkAAAAIAAAACQAAAAwAAAALAAAACQAAAAsAAAAKAAAAEAAAAAAA
+AAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAACAPzAAAAAEAAAANMpnviiwxL76zPU+
+itXPviiwxL6UlGc+uOmiviiwxL6nr/U+9kvCvga1xL4anPU+NMpnvkRbDL+eqOI+NMpnvl/9
+Cb+UlGc+HUbHviiwxL4hKNo+LG/pviJ5O7+UlGc+LG/pvuZKO78uspU+mHKlviiwxL5lrPU+
+LvvEvga1xL7YmPU+is/FvjPwC79cpeI+g5XpvgKwQr9H2ZU+NMpnvnBEQ7+J3JU+NMpnvqxy
+Q7+UlGc+g5XpvmDZQr+UlGc+VAAAAAAAAAABAAAABgAAAAAAAAAGAAAACQAAAAAAAAAJAAAA
+AgAAAAAAAAACAAAAAwAAAAAAAAADAAAABAAAAAAAAAAEAAAADQAAAAAAAAANAAAADgAAAAAA
+AAAOAAAABQAAAAAAAAAFAAAAAQAAAAEAAAAFAAAADgAAAAEAAAAOAAAADwAAAAEAAAAPAAAA
+BwAAAAEAAAAHAAAACAAAAAEAAAAIAAAABgAAAAIAAAAJAAAACgAAAAIAAAAKAAAAAwAAAAMA
+AAAKAAAACwAAAAMAAAALAAAABAAAAAQAAAALAAAADAAAAAQAAAAMAAAADQAAAAYAAAAIAAAA
+CgAAAAYAAAAKAAAACQAAAAcAAAAPAAAACAAAAAgAAAAPAAAADAAAAAgAAAAMAAAACgAAAAoA
+AAAMAAAACwAAAAwAAAAPAAAADgAAAAwAAAAOAAAADQAAABAAAAAAAAAAAAAAAAAAAAAAAAAA
+EAAAAAAAAAAAAAAAAAAAAAAAgD8/AAAABAAAAJ0Yxj5U1cW+Hkb2PqlY0D5U1cW+zMJnPkvd
+wz5U1cW+Hkb2Po07xT7o6g2/Bq7iPgrS5j6b/0S/H+aVPjz65j6unD2/6L6VPrzcaD7PJQu/
+zMJnPrzcaD5U1cW+GRX2Pjz65j7/yD2/zMJnPi1Iqz5U1cW+Czn2PszApT523fi+zJTqPrzc
+aD7hE/2+TYLpPrzcaD5/gw2/Bq7iPgrS5j52KUW/zMJnPobd5j5xpEO/zMJnPrzcaD7ga0S/
+2+KVPrzcaD4ymES/zMJnPmV1iT5Hs0S/zMJnPv7WaD5pCz2/pLuVPv7WaD7C3D6/csWVPrzc
+aD5Q2sa+jN31PnIAAAAAAAAAAQAAAAcAAAAAAAAABwAAAAkAAAAAAAAACQAAAAIAAAAAAAAA
+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
+AAAGAAAAAgAAAAIAAAAGAAAABwAAAAIAAAAHAAAACAAAAAMAAAAJAAAACgAAAAMAAAAKAAAA
+BAAAAAQAAAAKAAAABQAAAAUAAAAKAAAACwAAAAUAAAALAAAADAAAAAUAAAAMAAAADgAAAAUA
+AAAOAAAADQAAAAUAAAANAAAABwAAAAUAAAAHAAAABgAAAAcAAAANAAAACAAAAAgAAAAOAAAA
+DwAAAAgAAAANAAAADgAAAAkAAAAQAAAACgAAAAoAAAARAAAACwAAAAoAAAAQAAAAEgAAAAoA
+AAASAAAAEQAAAAsAAAARAAAADAAAAAwAAAARAAAAEgAAAAwAAAASAAAADgAAAA4AAAASAAAA
+DwAAABAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAgD8kAAAABAAAAAAA
+AABaVce+noqRvhyMrT5aVce+XFOYvgAAAABaVce+VMaBvgAAAAAAAEAzqiBwvhyMrT5aVce+
+TF5/vhyMrT62fqK+cJeTvpI0fj5aVce+QjmAvhyMrT5AkJS+wJ3ovAAAAACx05K+wJ3ovOBB
+pTsAAEAzVPBvvhyMrT4AAEAzMmZ9vn/+ij4AAEAzvKx6vjwAAAAAAAAAAQAAAAQAAAAAAAAA
+BAAAAAYAAAAAAAAABgAAAAIAAAAAAAAAAgAAAAgAAAAAAAAACAAAAAMAAAAAAAAAAwAAAAEA
+AAABAAAAAwAAAAUAAAABAAAABQAAAAoAAAABAAAACgAAAAcAAAABAAAABwAAAAQAAAACAAAA
+BgAAAAcAAAACAAAABwAAAAgAAAADAAAACAAAAAkAAAADAAAACQAAAAsAAAADAAAACwAAAAoA
+AAADAAAACgAAAAUAAAAEAAAABwAAAAYAAAAHAAAACgAAAAsAAAAHAAAACwAAAAkAAAAHAAAA
+CQAAAAgAAAAQAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAIA/JAAAAAQA
+AABA+WY7AHiduAOaNj9A+WY7AHiduO1yET/gN3S+AHiduDmCNj9A+WY7yniJvnAqLD9A+WY7
+ORaJvthZrz78YS++mC6IvthZrz7gN3S+4tWHvthZrz7gN3S+AHiduNxMET/gN3S+OkqBvS4O
+ND/gN3S+YT2IvhAoLD/gN3S+KLDEvuPT9T5A+WY7KLDEvkEb9j48AAAAAAAAAAEAAAAHAAAA
+AAAAAAcAAAACAAAAAAAAAAIAAAADAAAAAAAAAAMAAAALAAAAAAAAAAsAAAAEAAAAAAAAAAQA
+AAABAAAAAQAAAAQAAAAFAAAAAQAAAAUAAAAGAAAAAQAAAAYAAAAHAAAAAgAAAAcAAAAGAAAA
+AgAAAAYAAAAKAAAAAgAAAAoAAAAJAAAAAgAAAAkAAAAIAAAAAgAAAAgAAAADAAAAAwAAAAkA
+AAAKAAAAAwAAAAoAAAALAAAAAwAAAAgAAAAJAAAABAAAAAsAAAAKAAAABAAAAAoAAAAGAAAA
+BAAAAAYAAAAFAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAACAPyoA
+AAAEAAAALcR8PgAAgDOTuDY/QBRqOwAAgDMGnDY/QBRqO7TaC77ITzE/LcR8PsRgV75ZiC4/
+LcR8PgAAgDP9lhE/QBRqOwAAgDOudRE/QBRqO/F4ib6cKSw/LcR8Pji2ir79Kyw/QBRqO8sV
+ib7aia8+LcR8PhJTir7aia8+QBRqO1LVxb4r3PU+LcR8PlLVxb5PKPY+pBwKPk7Dib7aia8+
+WHIcPFLVxb4r3PU+SAAAAAAAAAABAAAAAgAAAAAAAAACAAAAAwAAAAAAAAADAAAABwAAAAAA
+AAAHAAAACwAAAAAAAAALAAAACQAAAAAAAAAJAAAABAAAAAAAAAAEAAAABQAAAAAAAAAFAAAA
+AQAAAAEAAAAFAAAACAAAAAEAAAAIAAAACgAAAAEAAAAKAAAABgAAAAEAAAAGAAAAAgAAAAIA
+AAAGAAAABwAAAAIAAAAHAAAAAwAAAAQAAAAIAAAABQAAAAQAAAAJAAAACAAAAAYAAAAKAAAA
+BwAAAAcAAAAKAAAACwAAAAgAAAAJAAAADAAAAAgAAAAMAAAACgAAAAkAAAALAAAADQAAAAkA
+AAANAAAACgAAAAkAAAAKAAAADAAAAAoAAAANAAAACwAAABAAAAAAAAAAAAAAAAAAAAAAAAAA
+EAAAAAAAAAAAAAAAAAAAAAAAgD85AAAABAAAAHImqb7UBAU/wAjfPMAqqb4pagw/R5MavnIm
+qb5cVcc+4XNLvgBHojtcVcc+cfg8vgBHojufKAQ/wAjfPABHojusvDQ/ra4TvnImqb7lezY/
+wR4hvsAqqb4xhA4/f2BOvsAqqb5K6Qw//fcmvnImqb6zKjc/Zr8svnImqb5L2Dk/A89evnIm
+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
+AAACAAAACgAAAAMAAAADAAAACgAAAAsAAAADAAAACwAAAAwAAAADAAAADAAAAAQAAAAEAAAA
+DAAAAA4AAAAEAAAADgAAAA0AAAAEAAAADQAAAAgAAAAEAAAACAAAAAYAAAAGAAAACAAAAAcA
+AAAIAAAADQAAAAkAAAAJAAAADQAAAA4AAAAJAAAADgAAAAsAAAAJAAAACwAAAAoAAAALAAAA
+DgAAAAwAAAAQAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAIA/QgAAAAQA
+AACYvtq+4y3GvsCd6Lxyf6u+4y3GvtN2gr4muim/4y3GvteouL7Idum+Hhw8v8Cd6Lxyf6u+
+YOwGv8Cd6Lxyf6u+4y3GvoyamL4neyu/4y3Gvo6azL6HFiq/orEGv5zGwb5znem+E4BDv8Cd
+6LyPkOm+cuFAv8Cd6Lxyf6u+Zc5Dv8Cd6Lxyf6u+sGTnvjrEv76lJgi/4y3GvvUZwL5yf6u+
+I+AGv46azL4IFCu/sMMCv46azL5KCSu/TgYGv46azL5znem+YnJEvwiRzL5yf6u+exBEv70s
+Ar5yf6u+3+ZDvxrUg71yf6u+Qfgyv46azL6rg+m+h8U/v46azL5yf6u+tMBEvwiRzL54AAAA
+AAAAAAEAAAAFAAAAAAAAAAUAAAAMAAAAAAAAAAwAAAAGAAAAAAAAAAYAAAACAAAAAAAAAAIA
+AAADAAAAAAAAAAMAAAAJAAAAAAAAAAkAAAAIAAAAAAAAAAgAAAAKAAAAAAAAAAoAAAAEAAAA
+AAAAAAQAAAABAAAAAQAAAAQAAAAKAAAAAQAAAAoAAAASAAAAAQAAABIAAAARAAAAAQAAABEA
+AAAVAAAAAQAAABUAAAATAAAAAQAAABMAAAANAAAAAQAAAA0AAAALAAAAAQAAAAsAAAAFAAAA
+AgAAAAYAAAAHAAAAAgAAAAcAAAAIAAAAAgAAAAgAAAAJAAAAAgAAAAkAAAADAAAABQAAAAsA
+AAAMAAAABgAAAAsAAAANAAAABgAAAA0AAAATAAAABgAAABMAAAAUAAAABgAAABQAAAAPAAAA
+BgAAAA8AAAAOAAAABgAAAA4AAAAHAAAABgAAAAwAAAALAAAABwAAAA4AAAAPAAAABwAAAA8A
+AAAIAAAACAAAAA8AAAAQAAAACAAAABAAAAARAAAACAAAABEAAAASAAAACAAAABIAAAAKAAAA
+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
+AAAAAAMAAAAEAAAAAAAAAAQAAAAKAAAAAAAAAAoAAAAPAAAAAAAAAA8AAAALAAAAAAAAAAsA
+AAAFAAAAAAAAAAUAAAAGAAAAAAAAAAYAAAABAAAAAQAAAAYAAAAHAAAAAgAAAAgAAAAGAAAA
+AgAAAAYAAAANAAAAAgAAAA0AAAAOAAAAAgAAAA4AAAAJAAAAAgAAAAkAAAADAAAAAwAAAAkA
+AAAKAAAAAwAAAAoAAAAEAAAABQAAAAsAAAAMAAAABQAAAAwAAAAGAAAABgAAAAgAAAAHAAAA
+BgAAAAwAAAANAAAACQAAAA4AAAALAAAACQAAAAsAAAAPAAAACQAAAA8AAAAKAAAACwAAAA4A
+AAAMAAAADAAAAA4AAAANAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA
+AACAPzAAAAAEAAAALN4zPwAAQDNL9Am/ci80P1pVx74BtBa/riMyPwAAQDPXnjG/NoktPwAA
+QDMcq8m+erAsP1pVx77WmNi+tiwyP1pVx74Xzz6/QC/LOwAAQDNLZje/DjIsP0YZZ74cq8m+
+1l0rP1pVx74cq8m+AAAAAAAAQDPqXDe/gKtGO1pVx74uZkK/AJy0OlpVx77WY0K/AAAAAFhy
+hL66pDm/AAAAAG5Gt776qDq/AAAAAFpVx76Trzu/AAAAAFpVx75+YUK/VAAAAAAAAAABAAAA
+AgAAAAAAAAACAAAABgAAAAAAAAAGAAAACQAAAAAAAAAJAAAAAwAAAAAAAAADAAAAAQAAAAEA
+AAADAAAABAAAAAEAAAAEAAAACAAAAAEAAAAIAAAADgAAAAEAAAAOAAAADwAAAAEAAAAPAAAA
+CwAAAAEAAAALAAAACgAAAAEAAAAKAAAABQAAAAEAAAAFAAAAAgAAAAIAAAAFAAAABgAAAAMA
+AAAHAAAACAAAAAMAAAAIAAAABAAAAAMAAAAJAAAABwAAAAUAAAAKAAAABgAAAAYAAAAKAAAA
+CwAAAAYAAAALAAAACQAAAAcAAAAJAAAACAAAAAgAAAAJAAAADAAAAAgAAAAMAAAADQAAAAgA
+AAANAAAADgAAAAkAAAALAAAADwAAAAkAAAAPAAAADgAAAAkAAAAOAAAADQAAAAkAAAANAAAA
+DAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAgD85AAAABAAAACjV
+Kr9cVUc/1lcWv0MTLL93VS0/gC4bv9PMLL+bZUQ/MY/ivgBHojs460U/MNUZvwBHojtKDiw/
+IcIevwBHojubPc4+8GYqvwBHojtbWsc+ydoqvz7RLL9bWsc+rJ8kv4QTLb9bWsc+lvgjvy8L
+L79bWsc+/lf7vqKSKb/zGz8/a+ujvgBHojsMqUI/SIbivgBHojviZj0/a+ujvkliKr9bWsc+
+a+ujvlK/K79cVcc+k5C8vk6XKr9bWsc+S1KmvrAxKr82Bf8+a+ujvmrvKb9eCRo/a+ujvh9r
+Kr9oBc8+a+ujvmYAAAAAAAAAAQAAAAIAAAAAAAAAAgAAAAMAAAAAAAAAAwAAAAQAAAAAAAAA
+BAAAAAEAAAABAAAABAAAAAUAAAABAAAABQAAAAYAAAABAAAABgAAAAcAAAABAAAABwAAAAgA
+AAABAAAACAAAAAkAAAABAAAACQAAAAIAAAACAAAACQAAAAoAAAACAAAACgAAAAsAAAACAAAA
+CwAAAAMAAAADAAAACwAAAAwAAAADAAAADAAAAAYAAAADAAAABgAAAAUAAAADAAAABQAAAAQA
+AAAGAAAADAAAAA0AAAAGAAAADQAAAA4AAAAGAAAADgAAAAcAAAAHAAAADgAAAAgAAAAIAAAA
+DgAAAAkAAAAJAAAADgAAAA8AAAAJAAAADwAAABAAAAAJAAAAEAAAABEAAAAJAAAAEQAAAAoA
+AAAKAAAAEQAAABAAAAAKAAAAEAAAABIAAAAKAAAAEgAAAA0AAAAKAAAADQAAAAwAAAAKAAAA
+DAAAAAsAAAANAAAAEgAAAA8AAAANAAAADwAAAA4AAAAPAAAAEgAAABAAAAAQAAAAAAAAAAAA
+AAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAIA/VwAAAAQAAADwhi88LuzFPrMMK7+q0rQ+
+LuzFPtiDJL8AR6I7LuzFPu/xKr8AR6I74zvOPqVnKr/Q4DI82EDOPmmCKr+q0rQ+z/EqP7j8
+HL8i17Q+VDfJPlBOJL+q0rQ+LuzFPiQdS74AZaM7LuzFPsNzPb4AR6I7/yoEP8AI3zwAR6I7
+eREsP7zDHr8wcV48CAosP6jMHr8i17Q+WuBEP6gbGL+q0rQ+2kYDP8AI3zwQ7RE8LuzFPjs+
+Pb4R2Js9ZvkDP8AI3zwQbUY8A7M0PyFaE74AR6I7ar80P4GhE74AR6I7LexFP0rVGb+QMm88
+QuJFP6ziGb+q0rQ+2MFBP5h24r6q0rQ+H2o6P8Dzir6q0rQ+9RY4PxXFXr6q0rQ+vDw3PwS9
+Tr6q0rQ+77w0P1oVIb4AR6I7SzU3P8NzPb4AR6I7eKhCP4R/4r4AR6I7lss9P22KqL4AR6I7
+lv04P+3WXr6iAAAAAAAAAAEAAAAHAAAAAAAAAAcAAAAOAAAAAAAAAA4AAAAIAAAAAAAAAAgA
+AAACAAAAAAAAAAIAAAADAAAAAAAAAAMAAAAEAAAAAAAAAAQAAAAFAAAAAAAAAAUAAAABAAAA
+AQAAAAUAAAAGAAAAAQAAAAYAAAAHAAAAAgAAAAgAAAAJAAAAAgAAAAkAAAARAAAAAgAAABEA
+AAAZAAAAAgAAABkAAAAcAAAAAgAAABwAAAAbAAAAAgAAABsAAAAaAAAAAgAAABoAAAASAAAA
+AgAAABIAAAAKAAAAAgAAAAoAAAADAAAAAwAAAAoAAAAEAAAABAAAAAoAAAALAAAABAAAAAsA
+AAAFAAAABQAAAAwAAAAGAAAABQAAAAsAAAAMAAAABgAAAAwAAAANAAAABgAAAA0AAAAHAAAA
+BwAAAA0AAAAOAAAACAAAAA4AAAAJAAAACQAAAA4AAAAPAAAACQAAAA8AAAANAAAACQAAAA0A
+AAAQAAAACQAAABAAAAARAAAACgAAABIAAAATAAAACgAAABMAAAALAAAACwAAABMAAAAMAAAA
+DAAAABIAAAAUAAAADAAAABQAAAAVAAAADAAAABUAAAAWAAAADAAAABYAAAAXAAAADAAAABcA
+AAAYAAAADAAAABgAAAANAAAADAAAABMAAAASAAAADQAAAA8AAAAOAAAADQAAABgAAAAQAAAA
+EAAAABgAAAARAAAAEQAAABgAAAAZAAAAEgAAABoAAAAUAAAAFAAAABoAAAAbAAAAFAAAABsA
+AAAVAAAAFQAAABsAAAAcAAAAFQAAABwAAAAWAAAAFgAAABwAAAAXAAAAFwAAABwAAAAZAAAA
+FwAAABkAAAAYAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAACAPzMA
+AAAEAAAAIOsBvwAAgDPACN88sGYBvwAAgDN4w2k9fJz7vhDs+T58Xmw+2R0Bv7lzBT/ACN88
+Vu4DPwAAgDPACN88MBj+vgAAgDOlQyw+MLLzvgAAgDMrX8k+fpLiviYGxD4cT0U/1HXrPgNt
+vz6mWEU/mNECPyrN9D6RcWw+LFYGPzXQAj/ACN88UCMEP0BQLj3ACN88XpoBPwAAgDM2ri0+
+wYnkvgBAVjhoazY/xwPDvgAAgDNNORE/z4vpPgAAgDPRyjY/ic2kPQAAgDPinzY/WgAAAAAA
+AAABAAAAAgAAAAAAAAACAAAAAwAAAAAAAAADAAAACgAAAAAAAAAKAAAACwAAAAAAAAALAAAA
+BAAAAAAAAAAEAAAADAAAAAAAAAAMAAAADwAAAAAAAAAPAAAAEAAAAAAAAAAQAAAADgAAAAAA
+AAAOAAAABgAAAAAAAAAGAAAABQAAAAAAAAAFAAAAAQAAAAEAAAAFAAAAAgAAAAIAAAAFAAAA
+BgAAAAIAAAAGAAAABwAAAAIAAAAHAAAACAAAAAIAAAAIAAAACQAAAAIAAAAJAAAAAwAAAAMA
+AAAJAAAACgAAAAQAAAALAAAADAAAAAYAAAANAAAABwAAAAYAAAAOAAAADQAAAAcAAAANAAAA
+CAAAAAgAAAANAAAADwAAAAgAAAAPAAAADAAAAAgAAAAMAAAACQAAAAkAAAAMAAAACgAAAAoA
+AAAMAAAACwAAAA0AAAAOAAAAEAAAAA0AAAAQAAAADwAAAA==</SharedString>
+	</SharedStrings>
+</roblox>
